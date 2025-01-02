@@ -1,4 +1,4 @@
--- Time-stamp: <2024-02-22 Thu 12:14 EST - george@calliope>
+-- Time-stamp: <2025-01-02 Thu 09:50 EST - george@valhalla>
 let Dow = < Mon | Tue | Wed | Thu | Fri | Sat | Sun >
 
 let concat = https://prelude.dhall-lang.org/List/concat
@@ -49,14 +49,14 @@ let tasks =
             }
         , Task.Meeting
             { description = "Office hours"
-            , dow = Dow.Thu
-            , time = { start = "13:00", end = "14:00" }
+            , dow = Dow.Wed
+            , time = { start = "13:30", end = "14:30" }
             , location = "JCC 559"
             }
         , Task.Meeting
             { description = "Office hours"
-            , dow = Dow.Fri
-            , time = { start = "13:30", end = "14:30" }
+            , dow = Dow.Thu
+            , time = { start = "14:30", end = "15:30" }
             , location = "JCC 559"
             }
         ]
@@ -74,14 +74,14 @@ let lectures =
       CourseComponent.Lecture
         { sched =
           [ ScheduleDetails.DowTufts
-              { dow = Dow.Wed
-              , time = { start = "09:00", end = "10:15" }
-              , location = "JCC 502"
+              { dow = Dow.Mon
+              , time = { start = "10:30", end = "11:45" }
+              , location = "JCC 280"
               }
           , ScheduleDetails.DowTufts
-              { dow = Dow.Mon
-              , time = { start = "09:00", end = "10:15" }
-              , location = "JCC 502"
+              { dow = Dow.Wed
+              , time = { start = "10:30", end = "11:45" }
+              , location = "JCC 280"
               }
           ]
         , topics = ./topics/lectures.dhall : List Text
