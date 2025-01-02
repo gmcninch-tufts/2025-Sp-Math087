@@ -1,4 +1,4 @@
--- Time-stamp: <2025-01-02 Thu 09:50 EST - george@valhalla>
+-- Time-stamp: <2025-01-02 Thu 09:57 EST - george@valhalla>
 let Dow = < Mon | Tue | Wed | Thu | Fri | Sat | Sun >
 
 let concat = https://prelude.dhall-lang.org/List/concat
@@ -98,7 +98,7 @@ let FinalProject =
         , assignments = [ "Final project proposals due", "Final Project Due" ]
         }
 
-in  [ { courseAY = "AY2023-2024"
+in  [ { courseAY = "AY2024-2025"
       , courseSem = "spring"
       , title = "Math087"
       , sections = [ "01" ]
