@@ -37,7 +37,7 @@ Here are details on these course components:
   A total of 10 problem sets will be collected.
 
   The problems will be posted on the course website, and your
-  solutions will be submitted to [Gradescope] -- see [these remarks
+  solutions will be submitted to [Gradescope](https://www.gradescope.com/) -- see [these remarks
   concerning use of
   gradescope](/course-posts/resources--gradescope.html).
 
