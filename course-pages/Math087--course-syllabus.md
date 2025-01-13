@@ -20,8 +20,8 @@ abstract: Course Syllabus
 
 *You should keep up with the posted material throughout the  course!!*
 
-Your grade in the course will be based on  *problem sets*,
-two *midterm reports* and a *final report*.
+Your grade in the course will be based on  *problem sets* (homework),
+three *quizzes*, two *midterm reports* and a *final report*.
 
 Here are details on these course components:
 
@@ -40,16 +40,12 @@ Here are details on these course components:
   concerning use of
   gradescope](/course-posts/resources--gradescope.html).
 
-- *engagement*
+- 3 *quizzes*
 
-  Each week (beginning in the second week) I'll ask you to make a
-  written submission *on paper*.  I'll provide a prompt *in advance*,
-  and you should write a paragraph or two in response and return it in
-  class.
+  There will be three in-class quizzes which are intended to assess
+  your comprehension of the material. I'll 
 
-- 2 *midterm reports*
-
-- 1 *final report*
+- 2 *midterm reports* and 1 *final report*
 
   Note that you will submit a *proposal* for the final report prior to work.
 
@@ -62,13 +58,13 @@ following (implicit) formula:
 
 Table: **Grading**
 
-| grade component  |   percentage |
-| :-----------     | :----------- |
-| problem sets     |          45% |
-| engagement       |          05% |
-| midterm report 1 |          15% |
-| midterm report 2 |          15% |
-| final report     |          15% |
+| grade component  | percentage |
+|:-----------------|:-----------|
+| problem sets     | 40%        |
+| quizz total      | 15%        |
+| midterm report 1 | 15%        |
+| midterm report 2 | 15%        |
+| final report     | 15%        |
 
 -------
 

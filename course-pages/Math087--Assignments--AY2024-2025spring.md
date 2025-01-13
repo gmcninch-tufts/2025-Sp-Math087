@@ -18,7 +18,9 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   | 03/14 | Fri | Assignment |     | 9    | midterm report 2 (page-rank)             |
   | 03/21 | Fri | Assignment |     | 10   | (no homework -- spring break)            |
   | 03/28 | Fri | Assignment |     | 11   | PS07: Monte-Carlo methods                |
+  | 04/03 | Thu | Assignment |     | 12   | Final project proposals due              |
   | 04/04 | Fri | Assignment |     | 12   | PS08: binomial & poisson distributions   |
   | 04/11 | Fri | Assignment |     | 13   | PS09: least squares & inverse problems   |
   | 04/18 | Fri | Assignment |     | 14   |                                          |
   | 04/25 | Fri | Assignment |     | 15   |                                          |
+  | 05/03 | Sat | Assignment |     | 16   | Final Project Due                        |

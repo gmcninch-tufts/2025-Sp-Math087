@@ -25,14 +25,14 @@ Here is a bit of what you need to know to enable these interactions:
 
 - [Overview of `jupyter` notebooks](#notebooks)
 - [Interacting with `jupyter` notebooks via colab](#colab)
-- [installing the tools on your computer](#conda)
+- [installing the tools on your computer](#venv)
 - [using the `jupyter notebook` viewer on your computer](#jupyter)
 
 
 Before diving into the details, let me try to answer a few question
 that you may have:
 
-**Q** - do I need `juptyer` and `colab` on my computer, or I just use `colab`?
+**Q** - do I need to install `juptyer` on my computer, or I just use `colab`?
 
 : **A** - It is probably possible to just use `colab`. `colab`
   provides a reasonable environment for reading the course material,
@@ -53,16 +53,18 @@ The material for this course will mostly be presented in the form of
 these `notebooks`. You can recognize `notebook` files by their
 filename extension -- their file name has the form `*.ipynb`.
  
-On the course site, notebooks will be posted with *two links*.
+On the course site, notebooks will be posted with *two links* -- one
+to `colab`, and one to an `*.ipynb` file.
 
 - The simplest way to interact with `jupyter notebooks` is to use
   [Google's colab]. Clicking one of the links will open the notebook
-  in `colab`.
+  *in the cloud* via the site
+  [colab.research.google.com](https://colab.research.google.com/).
 
 - The other one link permits you to download the `notebook` file to
   your computer. In order to use this file, you will need to have a
   working installation of `python` and `jupyter`. See below for some
-  discussion of how to [set up the required tools](#conda) and how to
+  discussion of how to [set up the required tools](#venv) and how to
   [use `jupyter`](#jupyter).
 
 [`Jupyter` notebooks]: https://jupyter.org/
@@ -89,164 +91,95 @@ A good starting point to learn how to use colab (and jupyter notebooks
 in general) is the document [Overview of Colaboratory
 Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb).
 
-# Installing the tools on your computer {#conda}
+# Installing the tools on your computer {#venv}
 
 Here I hope to answer the questions: "What do I need to do to be able
-to create and execute `python` code for the course on my computer?"  and
-"What do I need to do to be able to view and execute `jupyter`
-notebooks on my computer?"
+to view and execute `jupyter` notebooks on my computer?"
 
-I suggest that you use a tool known as `conda` (short for *anaconda*;
-together with `python`, this amounts to a bunch of snakes ...). 
+You first need to have [`python`](http://www.python.org) installed. In
+many cases, this is already true.
 
-[`conda`](https://conda.org) describes itself as follows:
+We are going to install `jupyter` and some python libraries in a
+*virtual environment*; you can read about [virtual environments
+here](https://docs.python.org/3/library/venv.html).
 
-  
-  > Initially started as a multi-platform package management tool, the
-  > term "conda" has since evolved to encompass an entire open-source
-  > packaging ecosystem and philosophy. This ecosystem is supported by
-  > many organizations who all share the common goal of providing
-  > easier access to programming tools and libraries.
-  
-Specifically, I recommend installing `conda` using something called
-the `miniforge` -- here is the [`miniforge` github
-repository](https://github.com/conda-forge/miniforge).
+To begin, create a directory named `jupyter` somewhere on your
+computer (you can actually call it whatever you like...)
 
-[Here is the list of
-*installers*.](https://github.com/conda-forge/miniforge#miniforge3)
-The installer must be chose to match your computer's architecture and
-operating system.
-
-- If you have a recent Apple MacBook ("M1" or "M2") your architecture is
-  likely `arm64` and you need to use the `OS X` `arm64 (Apple Silicon)` installer.
-
-- somewhat older Apple MacBooks need to use the `OS X` `x86_64` installer.
-
-- Windows users need to use the `Windows` `x86_64` installer.
-
-- There are installers for `linux` users as well.
-
-You should now read and follow the [installation
-instructions](https://github.com/conda-forge/miniforge#install) for
-your operating system. (I've provided some annotation below, which you might read first).
-
-## installing in `Mac OS` or `Linux`
-
-The `Mac OS & Linux` instructions tell you to execute the following commands in a terminal window (i.e. a "shell"):
-
->   ```
->   ~$ curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
->
->   ~$ bash Miniforge3-$(uname)-$(uname -m).sh
->   ```
-
-Note that these should be executed in a `shell`-- in particular, you don't type the prompts ("`~$`"). The first command
-uses the utility `curl` to download the relevant installer (the
-expressions `$(uname)` and `$(uname- m)` should select the correct
-installer for your computers architecture + operating system, without
-you having to make the choice).
-
-The second command (`bash...`) *executes* the installer that you just
-downloaded. When it is running, you'll need to interact a bit with it
-(pressing "ENTER" when requested, accepting the licence terms,
-confirming the install location, etc.)
-
-Once the installer is done downloading packages from the `conda-forge`, you will be asked:
+Open a `terminal` on your computer, and change to the directory you
+just created. To do so, use a command something like:
 
 > ```
-> Do you wish the installer to initialize Miniforge3
-> by running conda init? [yes|no]
+> george@valhalla:~$ cd jupyter
+> george@valhalla:~/jupyter$ 
 > ```
 
-In order to use `conda`, you should answer `yes`. It will add some
-code to your config file `~/.bashrc`.
+(You should only type the `cd jupyter` bit. And you may need to type a
+more complicated string if the directory you created is nested below
+your home directory).
 
-After closing and reopening your shell, you should have a prompt that
-looks something like the following:
-
-> ```
-> (base) george@valhalla:~$ 
-> ```
-
-The `(base)` prefix indicates that the `base` environment of `conda`
-has been `activated`.  
-
-Typing something like "`which python`", you should get a response like the following:
+Now create a `virtual environment` as follows:
 
 > ```
-> (base) george@valhalla:~$ which python
-> /home/george/miniforge3/bin/python
+> $ python -m venv .venv
 > ```
 
-This indicates that if you execute `python` from the command shell, it
-will run the just-installed version from the `miniforge3/bin` directory.
-
-You can start a python `repl`:
+You may need to instead type
 
 > ```
-> (base) mcninch-store@valhalla:~$ python
-> Python 3.10.12 | packaged by conda-forge | (main, Jun 23 2023, 22:40:32) [GCC 12.3.0] on linux
-> Type "help", "copyright", "credits" or "license" for more information.
-> >>>
+> $ python3 -m venv .venv
 > ```
 
-You can exit the `python repl` by typing `C-d` ("control d").
+Among other things, this should create a directory named `.venv`
+beneath your `jupyter` directory.
 
-You can deactivate `conda` with the command
-
-> ```
-> (base) george@valhalla:~$ conda deactivate
-> ```
-
-And you can reactivate it with the command
+You now need to *activate* the virtual environment in your terminal.
+In linux or on a mac, you do this as follows:
 
 > ```
-> george@valhalla:~$ conda activate base
+> $ source .venv/bin/activate
 > ```
 
-## installing in `Windows`
-
-As the installation instructions say, you should download and execute
-the windows installer. 
-
-Note that there will be a `Miniforge Prompt` installed to the start
-menu; opening that prompt should enable you to run software installed
-in the `miniforge`.
-
-For example, from that prompt you should be able to start a `python repl` by
-executing `python`.
-
-## Remaining installation steps.
-
-In this class, we are going to use some `python` libraries, as well as
-`jupyterlab`.
-
-Not everything we need was installed from `miniforge`, but it is now
-easy to install what we need. 
-
-Execute the following commands:
+Looking at the docs
+https://docs.python.org/3/library/venv.html
+is appears that in `windows` you proceed as follows
 
 > ```
-> (base) george@valhalla~$ mamba install jupyterlab numpy sympy pandas pydot 
+> # in cmd.exe
+> C:\jupyter\> .venv/Scripts\activate.bat
+> 
+> #or
+> # in powershell
+> C:\jupyter\> .venv\Scripts\Activate.ps1
 > ```
 
-(You'll have to respond to `Confirm changes: [Y/n]` by typing `Y`.
-And then the `mamba` will install probably a large number of new
-packages...)
+After activation, the terminal "prompt" should appear differently. For
+example, you might see something like this:
 
-# An editor
+> ```
+> (.venv) george@valhalla:~/jupyter$ 
+> ```
 
-You need to use a text editor to create and edit `python` code. What
-editor you choose to use is a matter of personal preference, but I'm
-going to recommend that you use the [Atom
-editor](https://atom.io/). This doesn't mean you are required to use
-`Atom`, but it is the editor that I'll use in demonstrations. The
-above-linked web-site has installation instructions for Windows, Mac,
-and Linux computers.
+You can no *exit* the virtual environment by typing `deactivate`, like this:
 
+> ```
+> (.venv) george@valhalla:~/jupyter$ deactivate
+> george@valhalla:~/jupyter$
+> ```
 
+Now, with the virtual environment active, you can install the following
+packages using a command called `pip`:
 
-# Interacting with `Jupyter` on your computer {#jupyter}
+> ```
+> (.venv) george@valhalla~/jupyter$ pip install jupyter numpy sympy scipy pandas pydot matplotlib
+> ```
+
+`pip` will install all these packages *in your `jupyter/.venv`
+directory*. In this case, packages occupying ~750M of disk space are
+installed and can be removed simply by deleting your `jupyter`
+directory.
+
+# Interacting with `jupyter` on your computer {#jupyter}
 
 
 You can always view and interact with `jupyter notebooks` on
@@ -258,11 +191,11 @@ the `jupyter lab` interface to the the plain `jupyter notebook`
 interface (and honestly I'm not sure I understand why there are two
 different interfaces) but you should experiment for yourself.
 
-So, type:
+So, with you virtual envirnoment activated type:
 
 
 > ```
-> george@valhalla:~$ jupyter-lab
+> (.venv) george@valhalla:~$ jupyter-lab
 > ```
 
 There will be some output to the terminal that you can mostly

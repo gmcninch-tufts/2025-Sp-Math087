@@ -84,6 +84,7 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   | 04/02 | Wed | Tufts      |                 | 12   | **Academic Date:** *Last day to withdraw from a course with W*  |
   | 04/02 | Wed | Tufts      |                 | 12   | **Academic Date:** *Last day to select Pass/Fail Option*        |
   | 04/03 | Thu | Meeting    | Office hours 10 | 12   | **14:30-15:30 JCC 559                                           |
+  | 04/03 | Thu | Assignment |                 | 12   | Final project proposals due                                     |
   | 04/04 | Fri | Assignment |                 | 12   | PS08: binomial & poisson distributions                          |
   | 04/07 | Mon | Meeting    | Office hours 8  | 13   | **13:30-14:30 JCC 559                                           |
   | 04/07 | Mon | Lecture    | 21              | 13   | Binomial & Poisson distributions                                |
@@ -109,6 +110,7 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   | 04/30 | Wed | Tufts      |                 | 16   | **Academic Date:** *Reading Period*                             |
   | 05/01 | Thu | Tufts      |                 | 16   | **Academic Date:** *Reading Period*                             |
   | 05/02 | Fri | Tufts      |                 | 16   | **Academic Date:** *Final Exam Period*                          |
+  | 05/03 | Sat | Assignment |                 | 16   | Final Project Due                                               |
   | 05/03 | Sat | Tufts      |                 | 16   | **Academic Date:** *Final Exam Period*                          |
   | 05/04 | Sun | Tufts      |                 | 16   | **Academic Date:** *Final Exam Period*                          |
   | 05/05 | Mon | Tufts      |                 | 17   | **Academic Date:** *Final Exam Period*                          |
