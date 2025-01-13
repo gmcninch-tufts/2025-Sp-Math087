@@ -47,6 +47,7 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   | 02/24 | Mon | Lecture    | 11              | 7    | max flow & min cut                                              |
   | 02/26 | Wed | Meeting    | Office hours 6  | 7    | **13:30-14:30 JCC 559                                           |
   | 02/26 | Wed | Lecture    | 12              | 7    | Bipartite graphs & matching                                     |
+  | 02/26 | Wed | Exam       |                 | 7    | **in-class quizzes (~20-30 minute)**                            |
   | 02/27 | Thu | Meeting    | Office hours 6  | 7    | **14:30-15:30 JCC 559                                           |
   | 02/28 | Fri | Assignment |                 | 7    | PS05: matching and finite-state machines                        |
   | 03/03 | Mon | Meeting    | Office hours 4  | 8    | **13:30-14:30 JCC 559                                           |
@@ -81,11 +82,12 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   | 03/31 | Mon | Lecture    | 19              | 12   | Monte-Carlo simulation                                          |
   | 04/02 | Wed | Meeting    | Office hours 10 | 12   | **13:30-14:30 JCC 559                                           |
   | 04/02 | Wed | Lecture    | 20              | 12   | Binomial & Poisson distributions                                |
+  | 04/02 | Wed | Exam       |                 | 12   | **in-class quizzes (~20-30 minute)**                            |
   | 04/02 | Wed | Tufts      |                 | 12   | **Academic Date:** *Last day to withdraw from a course with W*  |
   | 04/02 | Wed | Tufts      |                 | 12   | **Academic Date:** *Last day to select Pass/Fail Option*        |
   | 04/03 | Thu | Meeting    | Office hours 10 | 12   | **14:30-15:30 JCC 559                                           |
-  | 04/03 | Thu | Assignment |                 | 12   | Final project proposals due                                     |
   | 04/04 | Fri | Assignment |                 | 12   | PS08: binomial & poisson distributions                          |
+  | 04/04 | Fri | Assignment |                 | 12   | Final project proposals due                                     |
   | 04/07 | Mon | Meeting    | Office hours 8  | 13   | **13:30-14:30 JCC 559                                           |
   | 04/07 | Mon | Lecture    | 21              | 13   | Binomial & Poisson distributions                                |
   | 04/09 | Wed | Meeting    | Office hours 11 | 13   | **13:30-14:30 JCC 559                                           |

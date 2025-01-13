@@ -18,6 +18,7 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   | 02/19 | Wed | Tufts      |     | 6    | **Academic Date:** *Last day to drop a course without record*  |
   | 02/20 | Thu | Tufts      |     | 6    | **Tufts:** *Monday schedule*                                   |
   | 02/21 | Fri | Assignment |     | 6    | PS04: integer programming & max flow                           |
+  | 02/26 | Wed | Exam       |     | 7    | **in-class quizzes (~20-30 minute)**                           |
   | 02/28 | Fri | Assignment |     | 7    | PS05: matching and finite-state machines                       |
   | 03/07 | Fri | Assignment |     | 8    | PS06: eigenvalues & Markov processes                           |
   | 03/14 | Fri | Assignment |     | 9    | midterm report 2 (page-rank)                                   |
@@ -32,10 +33,11 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   | 03/22 | Sat | Tufts      |     | 10   | **No classes:** *Spring Break*                                 |
   | 03/23 | Sun | Tufts      |     | 10   | **No classes:** *Spring Break*                                 |
   | 03/28 | Fri | Assignment |     | 11   | PS07: Monte-Carlo methods                                      |
+  | 04/02 | Wed | Exam       |     | 12   | **in-class quizzes (~20-30 minute)**                           |
   | 04/02 | Wed | Tufts      |     | 12   | **Academic Date:** *Last day to withdraw from a course with W* |
   | 04/02 | Wed | Tufts      |     | 12   | **Academic Date:** *Last day to select Pass/Fail Option*       |
-  | 04/03 | Thu | Assignment |     | 12   | Final project proposals due                                    |
   | 04/04 | Fri | Assignment |     | 12   | PS08: binomial & poisson distributions                         |
+  | 04/04 | Fri | Assignment |     | 12   | Final project proposals due                                    |
   | 04/11 | Fri | Assignment |     | 13   | PS09: least squares & inverse problems                         |
   | 04/18 | Fri | Assignment |     | 14   |                                                                |
   | 04/21 | Mon | Tufts      |     | 15   | **No classes:** *Patriots' Day*                                |
