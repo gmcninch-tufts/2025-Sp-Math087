@@ -23,6 +23,6 @@ and Wed Jan 22. So I'll collect the first homework on Fri Jan 24.
 
 
 - Assignment
-
-  - problem set 1  
-    [problem set 1](/course-assignments/PS01--2024-01-29.html)
+    
+	- [**[problem set 1]**](/course-assignments/PS01--2024-01-29.html)  
+	  [**[pdf]**](/course-assignments/PS01--2024-01-29.pdf)
