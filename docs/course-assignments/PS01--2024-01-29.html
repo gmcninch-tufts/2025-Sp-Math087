@@ -51,10 +51,11 @@
             <h1>ProblemSet 1 -- Optimization
 </h1>
             <h2 id="an-optimization-question-in-auto-manufacturing">1. An optimization question in auto manufacturing</h2>
-<p>An automobile manufacturer makes a profit of <code>$</code>1,500 per unit on the
-sale of a certain car model. It is estimated that for every <code>$</code>100 of
-rebate, the number of units of this model sold in a given month will
-increase by 15%.</p>
+<p>A manufacturing firm makes a profit of <code>$</code>1200 per unit on the sale of
+a product known as a widget. The firm hopes to increase widget sales
+by offering a rebate; after some number-crunching, it is estimated
+that for every <code>$</code>100 of rebate, the number of widgets sold in a given
+month will increase by 15%.</p>
 <ol type="a">
 <li><p>What amount of rebate will maximize the manufacturers profit for
 the month? Model the question as a single-variable optimization
@@ -81,24 +82,29 @@ of the initial mass of the reagents.</p>
 <li><p>Use <code>matplotlib</code> to produce a graph and a contour plot of the percentage of the powder
 function <span class="math inline">\(F (H, T )\)</span>.</p></li>
 </ol>
-<p>(To get a usable copy of your image, you can proceed in a few ways:</p>
+<p>(You should consult this week’s <code>jupyter notebooks</code> to see some
+examples. To get a usable copy of your image, you can proceed in a few
+ways:</p>
 <ul>
 <li><p>if you produce the graph in colab you can right-click on the image
-and Save As a file on your file system.</p></li>
+and <code>Save As</code> a file on your file system.</p></li>
 <li><p>if you work in Python on your computer, you can save the image via
 a command like</p>
-<pre><code>&gt; g.savefig(”my graph image.png”)</code></pre></li>
+<pre><code>&gt; g.savefig(”myGraphImage.png”)</code></pre></li>
 </ul>
 <h2 id="blood-typing">3. Blood typing</h2>
 <p>Human blood is generally classified in the “ABO” system, with four
 blood types: <code>A</code>, <code>B</code>, <code>O</code>, and <code>AB</code>. These four types reflect six
-gene pairs (pairs of alleles), with blood type <code>A</code> corresponding to
-gene pairs <code>AA</code> and <code>AO</code>, blood type <code>B</code> corresponding to gene pairs
-<code>BB</code> and <code>BO</code>, blood type <code>O</code> corresponding to gene pair <code>OO</code>, and
-blood type <code>AB</code> corresponding to gene pair <code>AB</code>. Let <span class="math inline">\(p\)</span> be the
-proportion of gene <code>A</code> in the population, let <span class="math inline">\(q\)</span> be the proportion of
-gene <code>B</code> in the population, and let <span class="math inline">\(r\)</span> be the proportion of gene <code>O</code>
-in the population. Observe that <span class="math inline">\(p + q + r = 1\)</span>.</p>
+gene pairs, with blood type <code>A</code> corresponding to gene pairs <code>AA</code> and
+<code>AO</code>, blood type <code>B</code> corresponding to gene pairs <code>BB</code> and <code>BO</code>, blood
+type <code>O</code> corresponding to gene pair <code>OO</code>, and blood type <code>AB</code>
+corresponding to gene pair <code>AB</code>. Let <span class="math inline">\(p\)</span> be the proportion of gene <code>A</code>
+in the population, let <span class="math inline">\(q\)</span> be the proportion of gene <code>B</code> in the
+population, and let <span class="math inline">\(r\)</span> be the proportion of gene <code>O</code> in the
+population. For example, the quantity <span class="math inline">\(p\)</span> represents the ratio of the
+total number of <em>blood-type genes</em> of type <code>A</code> to the total number of
+<em>blood-type genes</em>. Since each blood-type gene is either <code>A</code>, <code>B</code> or
+<code>O</code>, it is clear that <span class="math inline">\(p + q + r = 1\)</span>.</p>
 <ol type="a">
 <li><p><a href="https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle">The Hardy-Weinberg
 principle</a>
@@ -133,9 +139,9 @@ available as primitive operations. To compute <span class="math inline">\(x = a/
 root of <span class="math inline">\(f(x) = 1/x − b\)</span> is found using Newton’s method, then the
 fraction is computed with one last multiplication by <span class="math inline">\(a\)</span>.</p>
 <p>Find the Newton iteration needed to solve <span class="math inline">\(f(x) = 0\)</span> and explain
-why it is well-suited to this purpose. (<strong>Note</strong>: We are trying to
-approximate division, so we shouldn’t actually use division
-functions implemented in <code>python</code>…)</p></li>
+why it is well-suited to this purpose. (<strong>Note</strong>: The point here is
+to approximate division, so you shouldn’t use division functions
+implemented in <code>python</code>!)</p></li>
 <li><p>experiments</p>
 <p>Apply Newton’s Method to compute <span class="math inline">\(1/b\)</span>, where <span class="math inline">\(b\)</span> is: (i) the last
 3 digits of your student number; and (ii) the area code of your
