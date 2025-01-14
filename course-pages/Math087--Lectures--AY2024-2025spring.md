@@ -24,6 +24,7 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   | 02/20 | Thu | Tufts   |     | 6    | **Tufts:** *Monday schedule*                                    |
   | 02/24 | Mon | Lecture | 11  | 7    | max flow & min cut                                              |
   | 02/26 | Wed | Lecture | 12  | 7    | Bipartite graphs & matching                                     |
+  | 02/26 | Wed | Exam    |     | 7    | **in-class quizzes (~20-30 minute)**                            |
   | 03/03 | Mon | Lecture | 13  | 8    | Finite-state machines & Transition diagrams                     |
   | 03/05 | Wed | Lecture | 14  | 8    | Iteration matrices; eigenvectors & power iterations             |
   | 03/10 | Mon | Lecture | 15  | 9    | Markov chains                                                   |
@@ -41,6 +42,7 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   | 03/26 | Wed | Lecture | 18  | 11   | Monte-Carlo integration                                         |
   | 03/31 | Mon | Lecture | 19  | 12   | Monte-Carlo simulation                                          |
   | 04/02 | Wed | Lecture | 20  | 12   | Binomial & Poisson distributions                                |
+  | 04/02 | Wed | Exam    |     | 12   | **in-class quizzes (~20-30 minute)**                            |
   | 04/02 | Wed | Tufts   |     | 12   | **Academic Date:** *Last day to withdraw from a course with W*  |
   | 04/02 | Wed | Tufts   |     | 12   | **Academic Date:** *Last day to select Pass/Fail Option*        |
   | 04/07 | Mon | Lecture | 21  | 13   | Binomial & Poisson distributions                                |

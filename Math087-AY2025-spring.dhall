@@ -1,4 +1,4 @@
--- Time-stamp: <2025-01-13 Mon 09:52 EST - george@valhalla>
+-- Time-stamp: <2025-01-13 Mon 16:43 EST - george@calliope>
 let Dow = < Mon | Tue | Wed | Thu | Fri | Sat | Sun >
 
 let concat = https://prelude.dhall-lang.org/List/concat
@@ -43,12 +43,6 @@ let Task =
 let tasks =
         [ Task.Meeting
             { description = "Office hours"
-            , dow = Dow.Mon
-            , time = { start = "13:30", end = "14:30" }
-            , location = "JCC 559"
-            }
-        , Task.Meeting
-            { description = "Office hours"
             , dow = Dow.Wed
             , time = { start = "13:30", end = "14:30" }
             , location = "JCC 559"
@@ -92,10 +86,27 @@ let FinalProject =
       CourseComponent.Assignment
         { description = "Final Project Due"
         , sched =
-          [ ScheduleDetails.DateDue { date = "2025-04-03", deadline = "23:59" }
+          [ ScheduleDetails.DateDue { date = "2025-04-04", deadline = "23:59" }
           , ScheduleDetails.DateDue { date = "2025-05-03", deadline = "23:59" }
           ]
         , assignments = [ "Final project proposals due", "Final Project Due" ]
+        }
+
+let Quizzes =
+      CourseComponent.Exam
+        { sched =
+          [ ScheduleDetails.Date
+              { date = "2025-02-26"
+              , time = { start = "10:30", end = "11:45" }
+              , location = "JCC 280"
+              }
+          , ScheduleDetails.Date
+              { date = "2025-04-02"
+              , time = { start = "10:30", end = "11:45" }
+              , location = "JCC 280"
+              }
+          ]
+        , description = "in-class quizzes (~20-30 minute)"
         }
 
 in  [ { courseAY = "AY2024-2025"
@@ -108,12 +119,7 @@ in  [ { courseAY = "AY2024-2025"
       , courseDescription = "Mathematical Modelling"
       , target =
         { dir = "course-pages", base = "Math087", org = "/home/george/org/" }
-      , courseComponents =
-          concat
-            CourseComponent
-            (   [ [ lectures ], [ homework, FinalProject ] ]
-              : List (List CourseComponent)
-            )
+      , courseComponents = [ lectures, homework, FinalProject, Quizzes ]
       , courseTasks = tasks : List Task
       }
     ]

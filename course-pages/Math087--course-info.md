@@ -5,7 +5,7 @@ title: Math087 - Course Information
 # Syllabus
 
 - [Course syllabus](/course-pages/Math087--course-syllabus.html) (or
-  as a [PDF](/course-assets/pages-pdf/Math087--course-syllabus.pdf))
+  as a [PDF](/course-pages/Math087--course-syllabus.pdf))
 
 # Schedule information
 
@@ -17,7 +17,7 @@ title: Math087 - Course Information
 - [Lecture
   schedule](/course-pages/Math087--Lectures--AY2024-2025spring.html)
   (or as a
-  [PDF](/course-assets/pages-pdf/Math087--Lectures--AY2024-2025spring.pdf))
+  [PDF](/course-pages/Math087--Lectures--AY2024-2025spring.pdf))
 
 - [Combined schedule](/course-pages/Math087--AY2024-2025spring.html)
   (or as a
