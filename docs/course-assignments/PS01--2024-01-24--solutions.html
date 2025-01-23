@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Math87-Tufts University - ProblemSet 1 -- Optimization
+</title>
+	<script>
+	  window.MathJax = {
+	    options: {
+	      ignoreHtmlClass: 'tex2jax_ignore',
+	      processHtmlClass: 'tex2jax_process'
+	    },
+	    tex: {
+	      autoload: {
+		color: [],
+		colorv2: ['color']
+	      },
+	      packages: {'[+]': ['noerrors']}
+	    },
+	    loader: {
+	      load: ['input/asciimath', '[tex]/noerrors']
+	    }
+	  };
+	</script>
+	<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script"></script>
+        <link rel="stylesheet" href="../css/default.css" />
+	<link rel="stylesheet" href="../css/haddock.css" />
+	
+	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://fonts.googleapis.com/css?family=Arimo:400,700" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,700" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" type="text/css" rel="stylesheet" media="screen" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous" />			
+    </head>
+    <body>
+        <header>
+          <div class="logo">
+            <a href="../">
+	      Math87 - Spring 2025 - Tufts Univ</a>
+          </div>
+          <nav>
+            <a href="../about.html">About</a>
+	    <a href="../course-pages/Math087--course-info.html">Info</a>	    
+            <a href="../archive.html">Archive</a>
+          </nav>
+        </header>
+
+        <main role="main">
+            <h1>ProblemSet 1 -- Optimization
+</h1>
+            <h2 id="an-optimization-question-in-widget-manufacturing">1. An optimization question in widget manufacturing</h2>
+<p>A manufacturing firm makes a profit of <code>$</code>1200 per unit on the sale of
+a product known as a widget. The firm hopes to increase widget sales
+by offering a rebate; after some number-crunching, it is estimated
+that for every <code>$</code>100 of rebate, the number of widgets sold in a given
+month will increase by 15%.</p>
+<ol type="a">
+<li><p>What amount of rebate will maximize the manufacturers profit for
+the month? Model the question as a single-variable optimization
+problem.</p>
+<div class="solution">
+<p>Let’s set some quantities:</p>
+<ul>
+<li><span class="math inline">\(r\)</span> = amount of rebate to be given, in dollars.</li>
+<li><span class="math inline">\(u_0\)</span> = units that will be sold, absent any rebate</li>
+<li><span class="math inline">\(s\)</span> = rebate benefit; i.e. relative change in sales per $100 of rebate<br />
+<span class="math inline">\(0.15\)</span> (i.e. “<span class="math inline">\(15\)</span> %”)</li>
+<li><span class="math inline">\(u = u(r)\)</span> = units that will be sold with rebate <span class="math inline">\(r\)</span> in place</li>
+<li><span class="math inline">\(p = p(r)\)</span> = profit for the month with rebate <span class="math inline">\(r\)</span> in place</li>
+</ul>
+<p>Then according to the anticipated rebate effect,
+<span class="math display">\[u = u(r) = u_0 \cdot \left(1 + \dfrac{s}{100}r\right )\]</span></p>
+<p>and the month’s profit is the product</p>
+<blockquote>
+<p>(<code>profit per widget</code>) <span class="math inline">\(\times\)</span> (<code>widget sold</code>);</p>
+</blockquote>
+<p>i.e.</p>
+<p><span class="math display">\[\begin{align*}
+p = p(r) &amp;= (1200-r) \cdot u(r) \\
+&amp;= u_0(1200-r)\left(1 +
+\dfrac{s}{100}r\right).
+\end{align*}\]</span></p>
+<p>Now, <span class="math inline">\(p\)</span> is a quadratic function of <span class="math inline">\(r\)</span>, and the coefficient of <span class="math inline">\(r^2\)</span>
+is <em>negative</em> (since <span class="math inline">\(s\)</span> is positive). Thus the profit is maximized at
+the unique critical point of this function, which is found by solving
+the equation <span class="math inline">\(\dfrac{dp}{dr} = 0\)</span> for <span class="math inline">\(r\)</span>. We must solve the equation:</p>
+<p><span class="math display">\[\begin{align*}
+0 &amp;= \dfrac{dp}{dr} = u_0\dfrac{d}{dr}\left(-\dfrac{s}{100}r^2 +
+ (1200\dfrac{s}{100} - 1)r + 1200\right) \\
+ &amp;= u_0\left( \dfrac{-s}{50}r +
+ 12s -1\right)
+\end{align*}\]</span></p>
+<p>Thus we need <span class="math inline">\(r= r^*\)</span> where
+<span class="math display">\[r^* = \dfrac{12s -1}{s/50} = \dfrac{50 \cdot (12s - 1)}{s}\]</span></p>
+<p>When <span class="math inline">\(s=.15\)</span>, find that the maximum profit is attained at
+<span class="math inline">\(r^*=\$266.\overline{66}\)</span>.</p>
+<p>e.g. you might calculate as follows:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> r(s):</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> <span class="dv">50</span><span class="op">*</span>(<span class="dv">12</span><span class="op">*</span>s <span class="op">-</span> <span class="dv">1</span>)<span class="op">/</span>s</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>r(<span class="fl">0.15</span>)</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="op">=&gt;</span> <span class="fl">266.66666666666663</span></span></code></pre></div>
+<p>According to our model, the resulting profit for this rebate is <span class="math inline">\(\$ 1306.66 \cdot u_0\)</span></p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> p(r,s):</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> (<span class="dv">1200</span><span class="op">-</span>r)<span class="op">*</span>(<span class="dv">1</span><span class="op">+</span>s<span class="op">*</span>r<span class="op">/</span><span class="dv">100</span>)</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>p(r(<span class="fl">0.15</span>), <span class="fl">0.15</span>)</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="op">=&gt;</span> <span class="fl">1306.6666666666667</span></span></code></pre></div>
+<p>where we recall that <span class="math inline">\(u_0\)</span> is the number of widgets sold absent a rebate.</p>
+</div></li>
+<li><p>Compute the <em>sensitivity</em> of your answer to the 15%
+assumption. Consider both the amount of rebate and the resulting
+profit.</p>
+<div class="solution">
+<p>Note that</p>
+<p><span class="math display">\[\dfrac{dr^*}{ds} = u_0 \dfrac{d}{ds} \left( 50 \cdot 12 - \dfrac{50}{s}\right) = u_0 \dfrac{50}{s^2}.\]</span></p>
+<p>Now, the sensitivity of the refund is given by</p>
+<p><span class="math display">\[S(r^*,s) = \dfrac{dr^*}{ds} \cdot \dfrac{s}{r^*}
+= \dfrac{50}{s^2} \cdot \dfrac{s}{r(s)}
+= \dfrac{50}{s \cdot r(s)}\]</span>
+(observe that the factor of <span class="math inline">\(u_0\)</span> in <span class="math inline">\(\dfrac{dr^*}{ds}\)</span> cancels the
+corresponding reciprocal factor in <span class="math inline">\(\dfrac{s}{r^*}\)</span>).</p>
+<p>In python we can write this as</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> RebateSens(s):</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a> <span class="cf">return</span> <span class="dv">50</span><span class="op">/</span>(s<span class="op">*</span>r(s))</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="co"># remember that r was already defined as a function of s...</span></span></code></pre></div>
+<p>Thus the sensitivity of the refund at <span class="math inline">\(s=.15\)</span> is given by
+<span class="math inline">\(S(r,.15)\)</span>; i.e.</p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>RebateSens(<span class="fl">.15</span>)</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="op">=&gt;</span> <span class="fl">1.2500000000000002</span></span></code></pre></div>
+<p>As a function of <span class="math inline">\(s\)</span>, the maximum profit is given by
+<span class="math display">\[p(s) =   \dfrac{25(12s+1)^2}{s}.\]</span></p>
+<p>(You can do this calculation by hand, or use <code>sympy</code> as follows:</p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> sympy <span class="im">as</span> sp</span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>ss <span class="op">=</span> sp.Symbol(<span class="st">'s'</span>) </span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a>x<span class="op">=</span>p(r(ss),ss)</span>
+<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a>sp.simplify(x)</span>
+<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a><span class="op">=&gt;</span> ...</span></code></pre></div>
+<p>)</p>
+<p>Differentiation now gives
+<span class="math display">\[\dfrac{dp}{ds} = 3600- \dfrac{25}{s^2}\]</span></p>
+<p>(again, you can do this by hand or as follows:</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>sp.simplify(sp.diff( p(r(ss),ss) ))</span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a><span class="op">=&gt;</span> ...</span></code></pre></div>
+<p>)</p>
+<p>Now, the sensitivity of profit to s is given by
+<span class="math display">\[S(p,s) = \dfrac{dp}{ds} \cdot \dfrac{s}{p}\]</span></p>
+<p>We can compute this senstivity:</p>
+<div class="sourceCode" id="cb7"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> DerivProfitWRTs(s):</span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> <span class="dv">3600</span> <span class="op">-</span> <span class="dv">25</span><span class="op">/</span>s<span class="op">^</span><span class="dv">2</span></span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> ProfitSens(s):</span>
+<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> DerivProfitWRTs(s) <span class="op">*</span> s<span class="op">/</span>p(r(s),s) </span></code></pre></div>
+<p>so
+<span class="math display">\[\dfrac{dp}{ds} = 5625 - \dfrac{25}{s^2}\bigg \vert_{s=0.15} = 4513.89\]</span></p>
+<p>Thus
+<span class="math display">\[S(p,s) = \dfrac{dp}{ds} \cdot \dfrac{s}{p} = 4513.88 \cdot
+\dfrac{0.15}{1760.4} \approx .384 \]</span></p>
+<p>This means that a 1% change in the “rebate benefit” should cause a 0.8% change in
+the “optimal rebate” and roughly a 0.4% change in the monthly profits.</p>
+</div></li>
+<li><p>Suppose that rebates actually generate only a 10% increase in sales
+per <code>$</code>100. What is the effect? What if the response is somewhere
+between 10% and 15% per <code>$</code>100 of rebate?</p></li>
+<li><p>Under what circumstances would an offer of a rebate cause a
+reduction in profit?</p></li>
+</ol>
+<h2 id="computing-yields-with-multi-variate-optimization">2. Computing yields with multi-variate optimization</h2>
+<p>A chemist is synthesizing a compound. In the last step, she must dissolve her reagents in a
+solution with a particular <code>pH</code> level <span class="math inline">\(H\)</span>, for <span class="math inline">\(1.2 ≤ H ≤ 2.7\)</span>, and heated to a temperature <span class="math inline">\(T\)</span> (in
+degrees Celsius), for <span class="math inline">\(66 ≤ T ≤ 98\)</span>. Her goal is to maximize her percent yield as a percentage
+of the initial mass of the reagents.</p>
+<p>The equation determining the percentage <span class="math inline">\(F (H,T)\)</span> is</p>
+<p><span class="math display">\[F(H,T) = −0.038\cdot T^2 − 0.223 \cdot T\cdot H − 10.982 \cdot H^2 +
+7.112 \cdot T + 60.912 \cdot H − 328.898.\]</span></p>
+<ol type="1">
+<li>Find the optimal temperature and <code>pH</code> level in the allowed range.</li>
+</ol>
+<div class="solution">
+<p>To find optimal values let us consider partial derivatives:</p>
+<p><span class="math display">\[\begin{align*}
+\dfrac{\partial F}{\partial H} &amp;= −0.223T − 21.964H + 60.912 = 0 \\
+\dfrac{\partial F}{\partial T} &amp;= −0.076T − 0.223H + 7.112 = 0
+\end{align*}\]</span></p>
+<p>One can solve this using elementary methods to obtain:</p>
+<p><span class="math display">\[T = 88.0651, H = 1.87914\]</span></p>
+<p>For example, you could use <code>numpy</code>:</p>
+<div class="sourceCode" id="cb8"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a>A<span class="op">=</span> [[<span class="fl">.223</span>,  <span class="fl">21.964</span>], [ <span class="fl">.076</span>, <span class="fl">.223</span>]]  <span class="co"># remember that a matrix is a &quot;list of lists&quot;</span></span>
+<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a>b<span class="op">=</span>[<span class="fl">60.912</span>,<span class="fl">7.112</span>]                     <span class="co"># and a vector is just a list</span></span>
+<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-6"><a href="#cb8-6" aria-hidden="true" tabindex="-1"></a>np.linalg.solve(A,b)</span>
+<span id="cb8-7"><a href="#cb8-7" aria-hidden="true" tabindex="-1"></a><span class="op">=&gt;</span> array([<span class="fl">88.06514956</span>,  <span class="fl">1.87914185</span>])</span></code></pre></div>
+<p>to obtain the result.</p>
+<p>Or you could use row operations on the appropriate augmented matrix.</p>
+</div>
+<ol start="2" type="1">
+<li>Use <code>matplotlib</code> to produce a graph and a contour plot of the percentage of the powder
+function <span class="math inline">\(F (H, T )\)</span>.</li>
+</ol>
+<p>(You should consult this week’s <code>jupyter notebooks</code> to see some
+examples. To get a usable copy of your image, you can proceed in a few
+ways:</p>
+<ul>
+<li><p>if you produce the graph in colab you can right-click on the image
+and <code>Save As</code> a file on your file system.</p></li>
+<li><p>if you work in Python on your computer, you can save the image via
+a command like</p>
+<pre><code>&gt; g.savefig(”myGraphImage.png”)</code></pre></li>
+</ul>
+<div class="solution">
+<p>You can use the code from the in-class notebook. (In the code below I’ve removed the code drawing curves through
+the critical point)</p>
+<div class="sourceCode" id="cb10"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
+<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a><span class="co"># https://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html</span></span>
+<span id="cb10-5"><a href="#cb10-5" aria-hidden="true" tabindex="-1"></a><span class="co"># https://matplotlib.org/3.3.1/gallery/mplot3d/surface3d.html</span></span>
+<span id="cb10-6"><a href="#cb10-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-7"><a href="#cb10-7" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> draw_graph(f,x,y,elev_azim<span class="op">=</span>[]):</span>
+<span id="cb10-8"><a href="#cb10-8" aria-hidden="true" tabindex="-1"></a>    X,Y <span class="op">=</span> np.meshgrid(x,y)</span>
+<span id="cb10-9"><a href="#cb10-9" aria-hidden="true" tabindex="-1"></a>    fig <span class="op">=</span> plt.figure(figsize<span class="op">=</span>(<span class="dv">20</span>,<span class="dv">20</span>))</span>
+<span id="cb10-10"><a href="#cb10-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-11"><a href="#cb10-11" aria-hidden="true" tabindex="-1"></a>    <span class="cf">for</span> idx,(e,a) <span class="kw">in</span> <span class="bu">enumerate</span>(elev_azim,start<span class="op">=</span><span class="dv">1</span>):</span>
+<span id="cb10-12"><a href="#cb10-12" aria-hidden="true" tabindex="-1"></a>        </span>
+<span id="cb10-13"><a href="#cb10-13" aria-hidden="true" tabindex="-1"></a>        ax <span class="op">=</span> fig.add_subplot(<span class="dv">1</span>,<span class="bu">len</span>(elev_azim),idx,projection<span class="op">=</span><span class="st">'3d'</span>,elev<span class="op">=</span>e,azim<span class="op">=</span>a)</span>
+<span id="cb10-14"><a href="#cb10-14" aria-hidden="true" tabindex="-1"></a>        ax.plot_wireframe(X,Y,f(X,Y))</span>
+<span id="cb10-15"><a href="#cb10-15" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb10-16"><a href="#cb10-16" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> fig</span></code></pre></div>
+<p>Now you need to define the function <span class="math inline">\(F\)</span> in python:</p>
+<div class="sourceCode" id="cb11"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> F(h,t):</span>
+<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a>	<span class="cf">return</span> <span class="op">-</span><span class="fl">0.38</span><span class="op">*</span>t<span class="op">**</span><span class="dv">2</span> <span class="op">-</span> <span class="fl">0.223</span><span class="op">*</span>t<span class="op">*</span>h <span class="op">-</span> <span class="fl">10.982</span><span class="op">*</span>h<span class="op">**</span><span class="dv">2</span> <span class="op">+</span> <span class="fl">7.112</span><span class="op">*</span>t <span class="op">+</span> <span class="fl">60.912</span><span class="op">*</span>h <span class="op">-</span> <span class="fl">328.898</span></span></code></pre></div>
+<p>And you can produce a graph via something like:</p>
+<div class="sourceCode" id="cb12"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a>x <span class="op">=</span> np.linspace(<span class="op">-</span><span class="dv">10</span>,<span class="dv">10</span>,<span class="dv">25</span>)</span>
+<span id="cb12-2"><a href="#cb12-2" aria-hidden="true" tabindex="-1"></a>y <span class="op">=</span> np.linspace(<span class="op">-</span><span class="dv">10</span>,<span class="dv">10</span>,<span class="dv">25</span>)</span>
+<span id="cb12-3"><a href="#cb12-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb12-4"><a href="#cb12-4" aria-hidden="true" tabindex="-1"></a>draw_graph(F,x,y,[(<span class="dv">40</span>,<span class="dv">55</span>)])</span></code></pre></div>
+<p>You can experiment with the <code>elev_azimuth</code> argument to get
+different perspective views of the graph.</p>
+</div>
+        </main>
+
+        <footer>
+	  <nav>
+	    <a href="http://www.tufts.edu">
+	      <i class="fas fa-chalkboard"></i>
+	      Tufts
+	    </a>	    
+	    <a href="http://math.tufts.edu">
+	      <i class="fas fa-chalkboard-teacher"></i>
+	      Tufts Math
+	    </a>
+	    <a href="https://gmcninch.math.tufts.edu">
+	      <i class="fas fa-coffee"></i>
+	      G McNinch
+	    </a>
+	    <a href="https://github.com/gmcninch-tufts">
+	      <i class="fab fa-github"></i>
+	      GitHub
+	    </a>	    
+	  </nav>
+        </footer>
+    </body>
+</html>
