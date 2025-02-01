@@ -1,6 +1,6 @@
   [ "no assignment collected"
   , "PS01: Optimization"
-  , "PS02: Linear programming"
+  , "PS02: Linear programs"
   , "PS03: Dual linear programs"
   , "midterm report 1 (linear programming)"
   , "PS04: integer programming & max flow"

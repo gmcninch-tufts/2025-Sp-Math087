@@ -9,7 +9,7 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   |-------|-----|------------|-----|------|------------------------------------------|
   | 01/17 | Fri | Assignment |     | 1    | no assignment collected                  |
   | 01/24 | Fri | Assignment |     | 2    | PS01: Optimization                       |
-  | 01/31 | Fri | Assignment |     | 3    | PS02: Linear programming                 |
+  | 01/31 | Fri | Assignment |     | 3    | PS02: Linear programs                    |
   | 02/07 | Fri | Assignment |     | 4    | PS03: Dual linear programs               |
   | 02/14 | Fri | Assignment |     | 5    | midterm report 1 (linear programming)    |
   | 02/21 | Fri | Assignment |     | 6    | PS04: integer programming & max flow     |
