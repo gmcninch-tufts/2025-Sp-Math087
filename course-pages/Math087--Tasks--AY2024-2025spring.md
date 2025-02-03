@@ -11,7 +11,7 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   | 01/20 | Mon | Tufts      |     | 2    | **No classes:** *MLK Day*                                      |
   | 01/22 | Wed | Tufts      |     | 2    | **Academic Date:** *Last day to add a course*                  |
   | 01/24 | Fri | Assignment |     | 2    | PS01: Optimization                                             |
-  | 01/31 | Fri | Assignment |     | 3    | PS02: Linear programming                                       |
+  | 01/31 | Fri | Assignment |     | 3    | PS02: Linear programs                                          |
   | 02/07 | Fri | Assignment |     | 4    | PS03: Dual linear programs                                     |
   | 02/14 | Fri | Assignment |     | 5    | midterm report 1 (linear programming)                          |
   | 02/17 | Mon | Tufts      |     | 6    | **No classes:** *Presidents' Day*                              |

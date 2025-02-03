@@ -21,7 +21,7 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   | 01/29 | Wed | Meeting    | Office hours 2  | 3    | **13:30-14:30 JCC 559                                           |
   | 01/29 | Wed | Lecture    | 4               | 3    | Types of optimization & linear programming                      |
   | 01/30 | Thu | Meeting    | Office hours 2  | 3    | **14:30-15:30 JCC 559                                           |
-  | 01/31 | Fri | Assignment |                 | 3    | PS02: Linear programming                                        |
+  | 01/31 | Fri | Assignment |                 | 3    | PS02: Linear programs                                           |
   | 02/03 | Mon | Lecture    | 5               | 4    | Network flows                                                   |
   | 02/05 | Wed | Meeting    | Office hours 3  | 4    | **13:30-14:30 JCC 559                                           |
   | 02/05 | Wed | Lecture    | 6               | 4    | Duality & complementary slackness                               |
