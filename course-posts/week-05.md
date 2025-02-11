@@ -12,6 +12,10 @@ may spend a bit of time discussing that in Monday's lecture.
 
 - Notebooks
 
+  - [2025-02-11] restaurant example recap
+	  [notebook](/course-content/week05-00--restaurant-example-recap.ipynb)
+	  [colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week05-00--restaurant-example-recap.ipynb)
+
   - [2024-02-10] integer programming:
 	  [notebook](/course-content/week05-01--branch-and-bound.ipynb)
 	  [colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week05-01--branch-and-bound.ipynb)
