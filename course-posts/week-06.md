@@ -11,6 +11,11 @@ date: 2025-02-17
 	  [colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week06-01--graph-models.ipynb)
 
 
+  - [2025-02-20] examples: duals and `min cut`  
+	  [notebook](/course-content/week06-02--min-cut-notes.ipynb)
+	  [colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week06-02--min-cut-notes.ipynb)
+  
+
 - Assignment
 
 	- [**[problem set 4]**](/course-assignments/PS04--2024-02-23.pdf)
