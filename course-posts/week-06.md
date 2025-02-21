@@ -21,3 +21,7 @@ date: 2025-02-17
 	- [**[problem set 4]**](/course-assignments/PS04--2024-02-23.pdf)
 	
 	(if you would like the code to create the graph in problem 2, [it is available here](/course-assets/PS4--graph.py)).
+
+ - Review material for the quiz next week
+ 
+    - [quiz1 review material](/course-content/Quiz1-review--2025-02-26.pdf)
