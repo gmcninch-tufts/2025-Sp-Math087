@@ -27,3 +27,4 @@ date: 2025-02-24
  - Review material for the quiz on Wednesday
  
     - [quiz1 review material](/course-content/Quiz1-review--2025-02-26.pdf)
+	- [quiz1 review material solutions](/course-content/Quiz1-review-solutions.pdf)
