@@ -6,6 +6,13 @@ date: 2025-03-09
 
 - Notebooks
 
+  - [2025-02-26] (recap from last week on finite state machines)
+    [notebook](/course-content/week07-02--FSM.ipynb)
+	[colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week07-02--FSM.ipynb)
+    
+	(We'll look briefly at the first example
+
+  
   - [2025-03-03] Eigenvalues and power iteration
 	  [notebook](/course-content/week08-01--eigen.ipynb)
 	  [colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week08-01--eigen.ipynb)
