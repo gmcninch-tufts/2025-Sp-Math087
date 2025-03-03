@@ -22,7 +22,7 @@ date: 2025-02-24
 
 - Assignment
 
-	- [**[problem set 5]**](/course-assignments/PS05--2024-03-02.pdf)
+	- [**[problem set 5]**](/course-assignments/PS05--2025-03-02.pdf)
 	
  - Review material for the quiz on Wednesday
  

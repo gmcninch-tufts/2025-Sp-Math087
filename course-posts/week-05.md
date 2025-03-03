@@ -16,12 +16,12 @@ may spend a bit of time discussing that in Monday's lecture.
 	  [notebook](/course-content/week05-00--restaurant-example-recap.ipynb)
 	  [colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week05-00--restaurant-example-recap.ipynb)
 
-  - [2024-02-10] integer programming:
+  - [2025-02-10] integer programming:
 	  [notebook](/course-content/week05-01--branch-and-bound.ipynb)
 	  [colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week05-01--branch-and-bound.ipynb)
 
 
-  - [2024-02-12] algorithms for solving linear programs
+  - [2025-02-12] algorithms for solving linear programs
 	  [notebook](/course-content/week05-02--linprog-algorithms.ipynb)
 	  [colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week05-02--linprog-algorithms.ipynb)
 

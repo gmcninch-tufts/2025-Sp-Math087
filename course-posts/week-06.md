@@ -18,7 +18,7 @@ date: 2025-02-17
 
 - Assignment
 
-	- [**[problem set 4]**](/course-assignments/PS04--2024-02-23.pdf)
+	- [**[problem set 4]**](/course-assignments/PS04--2025-02-23.pdf)
 	
 	(if you would like the code to create the graph in problem 2, [it is available here](/course-assets/PS4--graph.py)).
 
