@@ -10,10 +10,10 @@ date: 2025-03-09
 	[colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week08-00--population.ipynb)
   
   - [2025-03-03] Eigenvalues and power iteration
-	  [notebook](/course-content/week08-01--eigen.ipynb)
+	  [notebook](/course-content/week08-01--eigen.ipynb                      )
 	  [colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week08-01--eigen.ipynb)
 
-  - [2025-03-05] Financial market exampl
+  - [2025-03-05] Financial market example
       [notebook](/course-content/week08-02--financial-market-example.ipynb)
 	  	  [colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week08-02--financial-market-example.ipynb)
 
