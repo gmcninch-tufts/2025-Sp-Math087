@@ -13,10 +13,17 @@ date: 2025-03-09
 	  [notebook](/course-content/week08-01--eigen.ipynb)
 	  [colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week08-01--eigen.ipynb)
 
+  - [2025-03-05] Financial market exampl
+      [notebook](/course-content/week08-02--financial-market-example.ipynb)
+	  	  [colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week08-02--financial-market-example.ipynb)
 
   - [2025-03-05] Markov processes
 	  [notebook](/course-content/week08-02--markov.ipynb)
 	  [colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week08-02--markov.ipynb)
+  
+  - [2025-03-05] cycles - examples
+	  [notebook](/course-content/week08-04--cycles.ipynb                       )
+	  [colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week08-04--cycles.ipynb                       )
   
 
 - Assignment

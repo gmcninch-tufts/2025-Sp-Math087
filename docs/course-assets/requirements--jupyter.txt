@@ -1,0 +1,10 @@
+jupyter
+matplotlib
+nbconvert
+numpy
+pandas
+scipy
+sympy
+graphviz
+
+
