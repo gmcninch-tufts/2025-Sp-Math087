@@ -18,8 +18,8 @@ date: 2025-03-09
 	  	  [colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week08-02--financial-market-example.ipynb)
 
   - [2025-03-05] Markov processes
-	  [notebook](/course-content/week08-02--markov.ipynb)
-	  [colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week08-02--markov.ipynb)
+	  [notebook](/course-content/week08-03--markov.ipynb)
+	  [colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week08-03--markov.ipynb)
   
   - [2025-03-05] cycles - examples
 	  [notebook](/course-content/week08-04--cycles.ipynb                       )
