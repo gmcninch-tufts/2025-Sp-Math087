@@ -15,8 +15,8 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   | 02/23 | Sun | Assignment |     | 6    | PS04: integer programming & max flow     |
   | 03/02 | Sun | Assignment |     | 7    | PS05: matching and finite-state machines |
   | 03/09 | Sun | Assignment |     | 8    | PS06: eigenvalues & Markov processes     |
-  | 03/16 | Sun | Assignment |     | 9    | midterm report 2 (page-rank)             |
-  | 03/23 | Sun | Assignment |     | 10   | (no homework -- spring break)            |
+  | 03/16 | Sun | Assignment |     | 9    | (no homework -- spring break begins)     |
+  | 03/23 | Sun | Assignment |     | 10   | midterm report 2 (page-rank)             |
   | 03/30 | Sun | Assignment |     | 11   | PS07: Monte-Carlo methods                |
   | 04/04 | Fri | Assignment |     | 12   | Final project proposals due              |
   | 04/06 | Sun | Assignment |     | 12   | PS08: binomial & poisson distributions   |

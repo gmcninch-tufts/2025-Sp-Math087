@@ -22,7 +22,7 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   | 03/02 | Sun | Assignment |     | 7    | PS05: matching and finite-state machines                       |
   | 03/09 | Sun | Assignment |     | 8    | PS06: eigenvalues & Markov processes                           |
   | 03/15 | Sat | Tufts      |     | 9    | **No classes:** *Spring Break*                                 |
-  | 03/16 | Sun | Assignment |     | 9    | midterm report 2 (page-rank)                                   |
+  | 03/16 | Sun | Assignment |     | 9    | (no homework -- spring break begins)                           |
   | 03/16 | Sun | Tufts      |     | 9    | **No classes:** *Spring Break*                                 |
   | 03/17 | Mon | Tufts      |     | 10   | **No classes:** *Spring Break*                                 |
   | 03/18 | Tue | Tufts      |     | 10   | **No classes:** *Spring Break*                                 |
@@ -30,7 +30,7 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   | 03/20 | Thu | Tufts      |     | 10   | **No classes:** *Spring Break*                                 |
   | 03/21 | Fri | Tufts      |     | 10   | **No classes:** *Spring Break*                                 |
   | 03/22 | Sat | Tufts      |     | 10   | **No classes:** *Spring Break*                                 |
-  | 03/23 | Sun | Assignment |     | 10   | (no homework -- spring break)                                  |
+  | 03/23 | Sun | Assignment |     | 10   | midterm report 2 (page-rank)                                   |
   | 03/23 | Sun | Tufts      |     | 10   | **No classes:** *Spring Break*                                 |
   | 03/30 | Sun | Assignment |     | 11   | PS07: Monte-Carlo methods                                      |
   | 04/02 | Wed | Exam       |     | 12   | **in-class quizzes (~20-30 minute)**                           |
