@@ -1,7 +1,7 @@
 ---
 author: George McNinch
 title: Week 08 material
-date: 2025-03-09
+date: 2025-03-03
 ---
 
 - Notebooks

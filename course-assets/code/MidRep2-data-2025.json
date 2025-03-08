@@ -1,0 +1,4074 @@
+[
+   {
+      "from": "Skunk",
+      "to": "Louse"
+   },
+   {
+      "from": "Ibex",
+      "to": "Mole"
+   },
+   {
+      "from": "Cobra",
+      "to": "Tapir"
+   },
+   {
+      "from": "Tapir",
+      "to": "Bear"
+   },
+   {
+      "from": "Cobra",
+      "to": "Spoonbill"
+   },
+   {
+      "from": "Bat",
+      "to": "Dragonfly"
+   },
+   {
+      "from": "Chamois",
+      "to": "Hummingbird"
+   },
+   {
+      "from": "Mongoose",
+      "to": "Elephant"
+   },
+   {
+      "from": "Cockroach",
+      "to": "Jaguar"
+   },
+   {
+      "from": "Parrot",
+      "to": "Yak"
+   },
+   {
+      "from": "Viper",
+      "to": "Bat"
+   },
+   {
+      "from": "Boar",
+      "to": "Seahorse"
+   },
+   {
+      "from": "Heron",
+      "to": "Alligator"
+   },
+   {
+      "from": "Sardine",
+      "to": "Kouprey"
+   },
+   {
+      "from": "Caribou",
+      "to": "Heron"
+   },
+   {
+      "from": "Rat",
+      "to": "Gnat"
+   },
+   {
+      "from": "Newt",
+      "to": "Rabbit"
+   },
+   {
+      "from": "Shrew",
+      "to": "Shrew"
+   },
+   {
+      "from": "Jellyfish",
+      "to": "Aardvark"
+   },
+   {
+      "from": "Emu",
+      "to": "Frog"
+   },
+   {
+      "from": "Hawk",
+      "to": "Red panda"
+   },
+   {
+      "from": "Chicken",
+      "to": "Gorilla"
+   },
+   {
+      "from": "Okapi",
+      "to": "Opossum"
+   },
+   {
+      "from": "Wallaby",
+      "to": "Kingfisher"
+   },
+   {
+      "from": "Gerbil",
+      "to": "Falcon"
+   },
+   {
+      "from": "Beaver",
+      "to": "Mantis"
+   },
+   {
+      "from": "Hornet",
+      "to": "Guanaco"
+   },
+   {
+      "from": "Rail",
+      "to": "Locust"
+   },
+   {
+      "from": "Stork",
+      "to": "Hummingbird"
+   },
+   {
+      "from": "Bison",
+      "to": "Cat"
+   },
+   {
+      "from": "Kangaroo",
+      "to": "Goose"
+   },
+   {
+      "from": "Kudu",
+      "to": "Gaur"
+   },
+   {
+      "from": "Weasel",
+      "to": "Quelea"
+   },
+   {
+      "from": "Fish",
+      "to": "Stingray"
+   },
+   {
+      "from": "Ram",
+      "to": "Bat"
+   },
+   {
+      "from": "Ferret",
+      "to": "Porcupine"
+   },
+   {
+      "from": "Sand Dollar",
+      "to": "Louse"
+   },
+   {
+      "from": "Anteater",
+      "to": "Boar"
+   },
+   {
+      "from": "Nightingale",
+      "to": "Mole"
+   },
+   {
+      "from": "Boar",
+      "to": "Mongoose"
+   },
+   {
+      "from": "Hyena",
+      "to": "Ibex"
+   },
+   {
+      "from": "Herring",
+      "to": "Sheep"
+   },
+   {
+      "from": "Cattle",
+      "to": "Echidna"
+   },
+   {
+      "from": "Zebra",
+      "to": "Coyote"
+   },
+   {
+      "from": "Newt",
+      "to": "Wallaby"
+   },
+   {
+      "from": "Turtle",
+      "to": "Trout"
+   },
+   {
+      "from": "Hippopotamus",
+      "to": "Hare"
+   },
+   {
+      "from": "Shrew",
+      "to": "Armadillo"
+   },
+   {
+      "from": "Boar",
+      "to": "Weasel"
+   },
+   {
+      "from": "Flamingo",
+      "to": "Mandrill"
+   },
+   {
+      "from": "Elephant",
+      "to": "Shrew"
+   },
+   {
+      "from": "Giraffe",
+      "to": "Armadillo"
+   },
+   {
+      "from": "Magpie",
+      "to": "Viper"
+   },
+   {
+      "from": "Buffalo",
+      "to": "Tiger"
+   },
+   {
+      "from": "Antelope",
+      "to": "Chicken"
+   },
+   {
+      "from": "Squirrel",
+      "to": "Cat"
+   },
+   {
+      "from": "Leopard",
+      "to": "Nightingale"
+   },
+   {
+      "from": "Cobra",
+      "to": "Ibis"
+   },
+   {
+      "from": "Wolf",
+      "to": "Hare"
+   },
+   {
+      "from": "Shark",
+      "to": "Red panda"
+   },
+   {
+      "from": "Curlew",
+      "to": "Locust"
+   },
+   {
+      "from": "Pigeon",
+      "to": "Woodcock"
+   },
+   {
+      "from": "Panther",
+      "to": "Hyena"
+   },
+   {
+      "from": "Sardine",
+      "to": "Caterpillar"
+   },
+   {
+      "from": "Rook",
+      "to": "Dragonfly"
+   },
+   {
+      "from": "Hippopotamus",
+      "to": "Dove"
+   },
+   {
+      "from": "Oyster",
+      "to": "Tapir"
+   },
+   {
+      "from": "Stinkbug",
+      "to": "Beaver"
+   },
+   {
+      "from": "Chicken",
+      "to": "Chimpanzee"
+   },
+   {
+      "from": "Scorpion",
+      "to": "Swan"
+   },
+   {
+      "from": "Hornet",
+      "to": "Guanaco"
+   },
+   {
+      "from": "Worm",
+      "to": "Herring"
+   },
+   {
+      "from": "Zebra",
+      "to": "Wildcat"
+   },
+   {
+      "from": "Mongoose",
+      "to": "Dunlin"
+   },
+   {
+      "from": "Snail",
+      "to": "Toad"
+   },
+   {
+      "from": "Grouse",
+      "to": "Chamois"
+   },
+   {
+      "from": "Grasshopper",
+      "to": "Peafowl"
+   },
+   {
+      "from": "Moose",
+      "to": "Locust"
+   },
+   {
+      "from": "Llama",
+      "to": "Wasp"
+   },
+   {
+      "from": "Gnu",
+      "to": "Elk"
+   },
+   {
+      "from": "Beaver",
+      "to": "Gerbil"
+   },
+   {
+      "from": "Kookabura",
+      "to": "Chough"
+   },
+   {
+      "from": "Grouse",
+      "to": "Mule"
+   },
+   {
+      "from": "Red deer",
+      "to": "Hippopotamus"
+   },
+   {
+      "from": "Mongoose",
+      "to": "Rat"
+   },
+   {
+      "from": "Giraffe",
+      "to": "Guanaco"
+   },
+   {
+      "from": "Pony",
+      "to": "Camel"
+   },
+   {
+      "from": "Newt",
+      "to": "Giraffe"
+   },
+   {
+      "from": "Sardine",
+      "to": "Panther"
+   },
+   {
+      "from": "Armadillo",
+      "to": "Oryx"
+   },
+   {
+      "from": "Jellyfish",
+      "to": "Sheep"
+   },
+   {
+      "from": "Starling",
+      "to": "Llama"
+   },
+   {
+      "from": "Wolf",
+      "to": "Loris"
+   },
+   {
+      "from": "Deer",
+      "to": "Bear"
+   },
+   {
+      "from": "Curlew",
+      "to": "Gorilla"
+   },
+   {
+      "from": "Albatross",
+      "to": "Parrot"
+   },
+   {
+      "from": "Pony",
+      "to": "Wombat"
+   },
+   {
+      "from": "Okapi",
+      "to": "Bat"
+   },
+   {
+      "from": "Partridge",
+      "to": "Frog"
+   },
+   {
+      "from": "Mink",
+      "to": "Kingfisher"
+   },
+   {
+      "from": "Lemur",
+      "to": "Viper"
+   },
+   {
+      "from": "Lobster",
+      "to": "Seahorse"
+   },
+   {
+      "from": "Dinosaur",
+      "to": "Partridge"
+   },
+   {
+      "from": "Beaver",
+      "to": "Chimpanzee"
+   },
+   {
+      "from": "Albatross",
+      "to": "Raccoon"
+   },
+   {
+      "from": "Kudu",
+      "to": "Boar"
+   },
+   {
+      "from": "Butterfly",
+      "to": "Newt"
+   },
+   {
+      "from": "Squirrel",
+      "to": "Dog"
+   },
+   {
+      "from": "Hyena",
+      "to": "Donkey"
+   },
+   {
+      "from": "Fish",
+      "to": "Quelea"
+   },
+   {
+      "from": "Kouprey",
+      "to": "Sparrow"
+   },
+   {
+      "from": "Gnu",
+      "to": "Badger"
+   },
+   {
+      "from": "Snake",
+      "to": "Wren"
+   },
+   {
+      "from": "Barracuda",
+      "to": "Goldfinch"
+   },
+   {
+      "from": "Stinkbug",
+      "to": "Oryx"
+   },
+   {
+      "from": "Wallaby",
+      "to": "Hornet"
+   },
+   {
+      "from": "Antelope",
+      "to": "Sheep"
+   },
+   {
+      "from": "Horse",
+      "to": "Donkey"
+   },
+   {
+      "from": "Spider",
+      "to": "Ostrich"
+   },
+   {
+      "from": "Rabbit",
+      "to": "Panther"
+   },
+   {
+      "from": "Hyena",
+      "to": "Donkey"
+   },
+   {
+      "from": "Goshawk",
+      "to": "Gaur"
+   },
+   {
+      "from": "Ibex",
+      "to": "Monkey"
+   },
+   {
+      "from": "Salamander",
+      "to": "Fly"
+   },
+   {
+      "from": "Caribou",
+      "to": "Beaver"
+   },
+   {
+      "from": "Goose",
+      "to": "Kouprey"
+   },
+   {
+      "from": "Weasel",
+      "to": "Wolf"
+   },
+   {
+      "from": "Nightingale",
+      "to": "Cormorant"
+   },
+   {
+      "from": "Goldfish",
+      "to": "Fly"
+   },
+   {
+      "from": "Mosquito",
+      "to": "Sheep"
+   },
+   {
+      "from": "Sand Dollar",
+      "to": "Hedgehog"
+   },
+   {
+      "from": "Mink",
+      "to": "Albatross"
+   },
+   {
+      "from": "Alligator",
+      "to": "Horse"
+   },
+   {
+      "from": "Hornet",
+      "to": "Parrot"
+   },
+   {
+      "from": "Elephant",
+      "to": "Gerbil"
+   },
+   {
+      "from": "Porcupine",
+      "to": "Cormorant"
+   },
+   {
+      "from": "Termite",
+      "to": "Coyote"
+   },
+   {
+      "from": "Hippopotamus",
+      "to": "Kudu"
+   },
+   {
+      "from": "Rail",
+      "to": "Mole"
+   },
+   {
+      "from": "Jellyfish",
+      "to": "Kingfisher"
+   },
+   {
+      "from": "Parrot",
+      "to": "Dove"
+   },
+   {
+      "from": "Mallard",
+      "to": "Salamander"
+   },
+   {
+      "from": "Peafowl",
+      "to": "Goshawk"
+   },
+   {
+      "from": "Jaguar",
+      "to": "Lyrebird"
+   },
+   {
+      "from": "Marten",
+      "to": "Gnu"
+   },
+   {
+      "from": "Shark",
+      "to": "Tiger"
+   },
+   {
+      "from": "Eel",
+      "to": "Opossum"
+   },
+   {
+      "from": "Elk",
+      "to": "Ibis"
+   },
+   {
+      "from": "Jaguar",
+      "to": "Rook"
+   },
+   {
+      "from": "Loris",
+      "to": "Wren"
+   },
+   {
+      "from": "Hummingbird",
+      "to": "Guanaco"
+   },
+   {
+      "from": "Coyote",
+      "to": "Crocodile"
+   },
+   {
+      "from": "Manatee",
+      "to": "Ape"
+   },
+   {
+      "from": "Wallaby",
+      "to": "Tiger"
+   },
+   {
+      "from": "Cheetah",
+      "to": "Kudu"
+   },
+   {
+      "from": "Penguin",
+      "to": "Quelea"
+   },
+   {
+      "from": "Manatee",
+      "to": "Llama"
+   },
+   {
+      "from": "Camel",
+      "to": "Beaver"
+   },
+   {
+      "from": "Emu",
+      "to": "Mole"
+   },
+   {
+      "from": "Mandrill",
+      "to": "Jay"
+   },
+   {
+      "from": "Albatross",
+      "to": "Dugong"
+   },
+   {
+      "from": "Frog",
+      "to": "Lion"
+   },
+   {
+      "from": "Lyrebird",
+      "to": "Kingfisher"
+   },
+   {
+      "from": "Kingfisher",
+      "to": "Wombat"
+   },
+   {
+      "from": "Lapwing",
+      "to": "Turkey"
+   },
+   {
+      "from": "Buffalo",
+      "to": "Gazelle"
+   },
+   {
+      "from": "Boar",
+      "to": "Owl"
+   },
+   {
+      "from": "Hyena",
+      "to": "Coyote"
+   },
+   {
+      "from": "Dove",
+      "to": "Cattle"
+   },
+   {
+      "from": "Ibex",
+      "to": "Worm"
+   },
+   {
+      "from": "Herring",
+      "to": "Antelope"
+   },
+   {
+      "from": "Fox",
+      "to": "Narwhal"
+   },
+   {
+      "from": "Dolphin",
+      "to": "Elk"
+   },
+   {
+      "from": "Butterfly",
+      "to": "Oyster"
+   },
+   {
+      "from": "Worm",
+      "to": "Cat"
+   },
+   {
+      "from": "Porpoise",
+      "to": "Salamander"
+   },
+   {
+      "from": "Ibex",
+      "to": "Chicken"
+   },
+   {
+      "from": "Caterpillar",
+      "to": "Rail"
+   },
+   {
+      "from": "Mallard",
+      "to": "Kudu"
+   },
+   {
+      "from": "Finch",
+      "to": "Zebra"
+   },
+   {
+      "from": "Lyrebird",
+      "to": "Stork"
+   },
+   {
+      "from": "Koala",
+      "to": "Turkey"
+   },
+   {
+      "from": "Cockroach",
+      "to": "Boar"
+   },
+   {
+      "from": "Stork",
+      "to": "Mantis"
+   },
+   {
+      "from": "Bee",
+      "to": "Toad"
+   },
+   {
+      "from": "Coyote",
+      "to": "Termite"
+   },
+   {
+      "from": "Mosquito",
+      "to": "Armadillo"
+   },
+   {
+      "from": "Gnat",
+      "to": "Aardvark"
+   },
+   {
+      "from": "Manatee",
+      "to": "Opossum"
+   },
+   {
+      "from": "Louse",
+      "to": "Elephant"
+   },
+   {
+      "from": "Hornet",
+      "to": "Lark"
+   },
+   {
+      "from": "Mongoose",
+      "to": "Snake"
+   },
+   {
+      "from": "Bear",
+      "to": "Butterfly"
+   },
+   {
+      "from": "Lobster",
+      "to": "Opossum"
+   },
+   {
+      "from": "Termite",
+      "to": "Jay"
+   },
+   {
+      "from": "Red deer",
+      "to": "Squirrel"
+   },
+   {
+      "from": "Hawk",
+      "to": "Rhinoceros"
+   },
+   {
+      "from": "Stingray",
+      "to": "Falcon"
+   },
+   {
+      "from": "Mallard",
+      "to": "Gazelle"
+   },
+   {
+      "from": "Rat",
+      "to": "Barracuda"
+   },
+   {
+      "from": "Aardvark",
+      "to": "Cassowary"
+   },
+   {
+      "from": "Jellyfish",
+      "to": "Elephant"
+   },
+   {
+      "from": "Clam",
+      "to": "Seal"
+   },
+   {
+      "from": "Mosquito",
+      "to": "Lapwing"
+   },
+   {
+      "from": "Eland",
+      "to": "Gazelle"
+   },
+   {
+      "from": "Giraffe",
+      "to": "Manatee"
+   },
+   {
+      "from": "Stingray",
+      "to": "Sardine"
+   },
+   {
+      "from": "Whale",
+      "to": "Bat"
+   },
+   {
+      "from": "Lyrebird",
+      "to": "Magpie"
+   },
+   {
+      "from": "Curlew",
+      "to": "Scorpion"
+   },
+   {
+      "from": "Human",
+      "to": "Pony"
+   },
+   {
+      "from": "Lion",
+      "to": "Lobster"
+   },
+   {
+      "from": "Scorpion",
+      "to": "Eland"
+   },
+   {
+      "from": "Boar",
+      "to": "Pelican"
+   },
+   {
+      "from": "Barracuda",
+      "to": "Leopard"
+   },
+   {
+      "from": "Meerkat",
+      "to": "Zebra"
+   },
+   {
+      "from": "Walrus",
+      "to": "Rook"
+   },
+   {
+      "from": "Moose",
+      "to": "Grasshopper"
+   },
+   {
+      "from": "Viper",
+      "to": "Curlew"
+   },
+   {
+      "from": "Viper",
+      "to": "Okapi"
+   },
+   {
+      "from": "Butterfly",
+      "to": "Kouprey"
+   },
+   {
+      "from": "Cheetah",
+      "to": "Nightingale"
+   },
+   {
+      "from": "Llama",
+      "to": "Dogfish"
+   },
+   {
+      "from": "Goose",
+      "to": "Marten"
+   },
+   {
+      "from": "Dog",
+      "to": "Snail"
+   },
+   {
+      "from": "Leopard",
+      "to": "Peafowl"
+   },
+   {
+      "from": "Flamingo",
+      "to": "Eland"
+   },
+   {
+      "from": "Wolf",
+      "to": "Raven"
+   },
+   {
+      "from": "Crocodile",
+      "to": "Walrus"
+   },
+   {
+      "from": "Ferret",
+      "to": "Kangaroo"
+   },
+   {
+      "from": "Ferret",
+      "to": "Chamois"
+   },
+   {
+      "from": "Goshawk",
+      "to": "Snail"
+   },
+   {
+      "from": "Eagle",
+      "to": "Camel"
+   },
+   {
+      "from": "Camel",
+      "to": "Hornet"
+   },
+   {
+      "from": "Butterfly",
+      "to": "Leopard"
+   },
+   {
+      "from": "Eland",
+      "to": "Tapir"
+   },
+   {
+      "from": "Buffalo",
+      "to": "Scorpion"
+   },
+   {
+      "from": "Shark",
+      "to": "Badger"
+   },
+   {
+      "from": "Eagle",
+      "to": "Okapi"
+   },
+   {
+      "from": "Meerkat",
+      "to": "Grasshopper"
+   },
+   {
+      "from": "Badger",
+      "to": "Hummingbird"
+   },
+   {
+      "from": "Ferret",
+      "to": "Alligator"
+   },
+   {
+      "from": "Louse",
+      "to": "Jaguar"
+   },
+   {
+      "from": "Hamster",
+      "to": "Mandrill"
+   },
+   {
+      "from": "Rhinoceros",
+      "to": "Wolf"
+   },
+   {
+      "from": "Chimpanzee",
+      "to": "Penguin"
+   },
+   {
+      "from": "Buffalo",
+      "to": "Koala"
+   },
+   {
+      "from": "Chamois",
+      "to": "Opossum"
+   },
+   {
+      "from": "Ape",
+      "to": "Koala"
+   },
+   {
+      "from": "Eel",
+      "to": "Dotterel"
+   },
+   {
+      "from": "Deer",
+      "to": "Crane"
+   },
+   {
+      "from": "Wildcat",
+      "to": "Penguin"
+   },
+   {
+      "from": "Gnat",
+      "to": "Gnu"
+   },
+   {
+      "from": "Gorilla",
+      "to": "Worm"
+   },
+   {
+      "from": "Salmon",
+      "to": "Chamois"
+   },
+   {
+      "from": "Kudu",
+      "to": "Chough"
+   },
+   {
+      "from": "Wallaby",
+      "to": "Fish"
+   },
+   {
+      "from": "Porpoise",
+      "to": "Caribou"
+   },
+   {
+      "from": "Spider",
+      "to": "Worm"
+   },
+   {
+      "from": "Jaguar",
+      "to": "Hare"
+   },
+   {
+      "from": "Dotterel",
+      "to": "Flamingo"
+   },
+   {
+      "from": "Hummingbird",
+      "to": "Gnu"
+   },
+   {
+      "from": "Chough",
+      "to": "Woodpecker"
+   },
+   {
+      "from": "Goshawk",
+      "to": "Eland"
+   },
+   {
+      "from": "Stingray",
+      "to": "Otter"
+   },
+   {
+      "from": "Lion",
+      "to": "Worm"
+   },
+   {
+      "from": "Trout",
+      "to": "Alligator"
+   },
+   {
+      "from": "Rook",
+      "to": "Deer"
+   },
+   {
+      "from": "Rabbit",
+      "to": "Stork"
+   },
+   {
+      "from": "Pony",
+      "to": "Leopard"
+   },
+   {
+      "from": "Cormorant",
+      "to": "Mallard"
+   },
+   {
+      "from": "Llama",
+      "to": "Pheasant"
+   },
+   {
+      "from": "Rail",
+      "to": "Pig"
+   },
+   {
+      "from": "Stork",
+      "to": "Yak"
+   },
+   {
+      "from": "Anteater",
+      "to": "Cattle"
+   },
+   {
+      "from": "Spider",
+      "to": "Donkey"
+   },
+   {
+      "from": "Goose",
+      "to": "Spoonbill"
+   },
+   {
+      "from": "Gnat",
+      "to": "Porcupine"
+   },
+   {
+      "from": "Sandpiper",
+      "to": "Hare"
+   },
+   {
+      "from": "Okapi",
+      "to": "Toad"
+   },
+   {
+      "from": "Alligator",
+      "to": "Kingfisher"
+   },
+   {
+      "from": "Gorilla",
+      "to": "Jackal"
+   },
+   {
+      "from": "Hippopotamus",
+      "to": "Crab"
+   },
+   {
+      "from": "Albatross",
+      "to": "Salmon"
+   },
+   {
+      "from": "Hyena",
+      "to": "Alpaca"
+   },
+   {
+      "from": "Grasshopper",
+      "to": "Crow"
+   },
+   {
+      "from": "Bat",
+      "to": "Salamander"
+   },
+   {
+      "from": "Lion",
+      "to": "Goshawk"
+   },
+   {
+      "from": "Rabbit",
+      "to": "Giraffe"
+   },
+   {
+      "from": "Crane",
+      "to": "Dove"
+   },
+   {
+      "from": "Lyrebird",
+      "to": "Capybara"
+   },
+   {
+      "from": "Caribou",
+      "to": "Jellyfish"
+   },
+   {
+      "from": "Ostrich",
+      "to": "Bear"
+   },
+   {
+      "from": "Shrew",
+      "to": "Guanaco"
+   },
+   {
+      "from": "Goshawk",
+      "to": "Cat"
+   },
+   {
+      "from": "Ostrich",
+      "to": "Jellyfish"
+   },
+   {
+      "from": "Hippopotamus",
+      "to": "Hippopotamus"
+   },
+   {
+      "from": "Bat",
+      "to": "Scorpion"
+   },
+   {
+      "from": "Hippopotamus",
+      "to": "Sardine"
+   },
+   {
+      "from": "Boar",
+      "to": "Grasshopper"
+   },
+   {
+      "from": "Hedgehog",
+      "to": "Gazelle"
+   },
+   {
+      "from": "Ostrich",
+      "to": "Ostrich"
+   },
+   {
+      "from": "Ibis",
+      "to": "Owl"
+   },
+   {
+      "from": "Snake",
+      "to": "Dunlin"
+   },
+   {
+      "from": "Partridge",
+      "to": "Cobra"
+   },
+   {
+      "from": "Elephant",
+      "to": "Ostrich"
+   },
+   {
+      "from": "Koala",
+      "to": "Salmon"
+   },
+   {
+      "from": "Parrot",
+      "to": "Curlew"
+   },
+   {
+      "from": "Sand Dollar",
+      "to": "Heron"
+   },
+   {
+      "from": "Gerbil",
+      "to": "Dunlin"
+   },
+   {
+      "from": "Albatross",
+      "to": "Guanaco"
+   },
+   {
+      "from": "Magpie",
+      "to": "Snail"
+   },
+   {
+      "from": "Alligator",
+      "to": "Dogfish"
+   },
+   {
+      "from": "Cattle",
+      "to": "Eel"
+   },
+   {
+      "from": "Kudu",
+      "to": "Lobster"
+   },
+   {
+      "from": "Manatee",
+      "to": "Stinkbug"
+   },
+   {
+      "from": "Jackal",
+      "to": "Hyena"
+   },
+   {
+      "from": "Cockroach",
+      "to": "Aardvark"
+   },
+   {
+      "from": "Donkey",
+      "to": "Eland"
+   },
+   {
+      "from": "Cobra",
+      "to": "Wren"
+   },
+   {
+      "from": "Sardine",
+      "to": "Dogfish"
+   },
+   {
+      "from": "Eagle",
+      "to": "Seahorse"
+   },
+   {
+      "from": "Goshawk",
+      "to": "Loris"
+   },
+   {
+      "from": "Rail",
+      "to": "Lemur"
+   },
+   {
+      "from": "Gnu",
+      "to": "Raven"
+   },
+   {
+      "from": "Quetzal",
+      "to": "Reindeer"
+   },
+   {
+      "from": "Gerbil",
+      "to": "Falcon"
+   },
+   {
+      "from": "Kingfisher",
+      "to": "Clam"
+   },
+   {
+      "from": "Barracuda",
+      "to": "Aardvark"
+   },
+   {
+      "from": "Koala",
+      "to": "Kudu"
+   },
+   {
+      "from": "Clam",
+      "to": "Jaguar"
+   },
+   {
+      "from": "Gnu",
+      "to": "Falcon"
+   },
+   {
+      "from": "Finch",
+      "to": "Mandrill"
+   },
+   {
+      "from": "Dove",
+      "to": "Camel"
+   },
+   {
+      "from": "Magpie",
+      "to": "Hornet"
+   },
+   {
+      "from": "Peafowl",
+      "to": "Chinchilla"
+   },
+   {
+      "from": "Skunk",
+      "to": "Deer"
+   },
+   {
+      "from": "Ferret",
+      "to": "Loris"
+   },
+   {
+      "from": "Trout",
+      "to": "Hawk"
+   },
+   {
+      "from": "Tapir",
+      "to": "Cobra"
+   },
+   {
+      "from": "Crab",
+      "to": "Alligator"
+   },
+   {
+      "from": "Mallard",
+      "to": "Peafowl"
+   },
+   {
+      "from": "Lark",
+      "to": "Goose"
+   },
+   {
+      "from": "Lemur",
+      "to": "Mole"
+   },
+   {
+      "from": "Turtle",
+      "to": "Dolphin"
+   },
+   {
+      "from": "Herring",
+      "to": "Cobra"
+   },
+   {
+      "from": "Salmon",
+      "to": "Salmon"
+   },
+   {
+      "from": "Caribou",
+      "to": "Penguin"
+   },
+   {
+      "from": "Walrus",
+      "to": "Dotterel"
+   },
+   {
+      "from": "Chicken",
+      "to": "Caribou"
+   },
+   {
+      "from": "Oyster",
+      "to": "Mantis"
+   },
+   {
+      "from": "Gazelle",
+      "to": "Eland"
+   },
+   {
+      "from": "Stork",
+      "to": "Turkey"
+   },
+   {
+      "from": "Flamingo",
+      "to": "Gnu"
+   },
+   {
+      "from": "Octopus",
+      "to": "Tiger"
+   },
+   {
+      "from": "Shark",
+      "to": "Ostrich"
+   },
+   {
+      "from": "Cassowary",
+      "to": "Snake"
+   },
+   {
+      "from": "Caterpillar",
+      "to": "Lyrebird"
+   },
+   {
+      "from": "Mink",
+      "to": "Lobster"
+   },
+   {
+      "from": "Cheetah",
+      "to": "Swan"
+   },
+   {
+      "from": "Rail",
+      "to": "Woodpecker"
+   },
+   {
+      "from": "Giraffe",
+      "to": "Jackal"
+   },
+   {
+      "from": "Quetzal",
+      "to": "Mongoose"
+   },
+   {
+      "from": "Dog",
+      "to": "Giraffe"
+   },
+   {
+      "from": "Echidna",
+      "to": "Marten"
+   },
+   {
+      "from": "Weasel",
+      "to": "Termite"
+   },
+   {
+      "from": "Elephant",
+      "to": "Tarsier"
+   },
+   {
+      "from": "Ostrich",
+      "to": "Echidna"
+   },
+   {
+      "from": "Leopard",
+      "to": "Caterpillar"
+   },
+   {
+      "from": "Boar",
+      "to": "Sardine"
+   },
+   {
+      "from": "Chamois",
+      "to": "Caribou"
+   },
+   {
+      "from": "Turtle",
+      "to": "Toad"
+   },
+   {
+      "from": "Ant",
+      "to": "Oryx"
+   },
+   {
+      "from": "Rail",
+      "to": "Rhinoceros"
+   },
+   {
+      "from": "Eel",
+      "to": "Wolf"
+   },
+   {
+      "from": "Chicken",
+      "to": "Walrus"
+   },
+   {
+      "from": "Snail",
+      "to": "Whale"
+   },
+   {
+      "from": "Meerkat",
+      "to": "Red deer"
+   },
+   {
+      "from": "Sardine",
+      "to": "Aardvark"
+   },
+   {
+      "from": "Dolphin",
+      "to": "Mosquito"
+   },
+   {
+      "from": "Yak",
+      "to": "Aardvark"
+   },
+   {
+      "from": "Cheetah",
+      "to": "Goose"
+   },
+   {
+      "from": "Dinosaur",
+      "to": "Pigeon"
+   },
+   {
+      "from": "Antelope",
+      "to": "Eagle"
+   },
+   {
+      "from": "Jay",
+      "to": "Koala"
+   },
+   {
+      "from": "Nightingale",
+      "to": "Wolf"
+   },
+   {
+      "from": "Stork",
+      "to": "Hyena"
+   },
+   {
+      "from": "Grouse",
+      "to": "Shark"
+   },
+   {
+      "from": "Chimpanzee",
+      "to": "Worm"
+   },
+   {
+      "from": "Pheasant",
+      "to": "Bee"
+   },
+   {
+      "from": "Partridge",
+      "to": "Spider"
+   },
+   {
+      "from": "Marten",
+      "to": "Lyrebird"
+   },
+   {
+      "from": "Gaur",
+      "to": "Cassowary"
+   },
+   {
+      "from": "Guanaco",
+      "to": "Skunk"
+   },
+   {
+      "from": "Shark",
+      "to": "Red panda"
+   },
+   {
+      "from": "Wolf",
+      "to": "Eland"
+   },
+   {
+      "from": "Magpie",
+      "to": "Okapi"
+   },
+   {
+      "from": "Finch",
+      "to": "Giraffe"
+   },
+   {
+      "from": "Stingray",
+      "to": "Curlew"
+   },
+   {
+      "from": "Yak",
+      "to": "Oryx"
+   },
+   {
+      "from": "Gerbil",
+      "to": "Oyster"
+   },
+   {
+      "from": "Pig",
+      "to": "Emu"
+   },
+   {
+      "from": "Shrew",
+      "to": "Dog"
+   },
+   {
+      "from": "Butterfly",
+      "to": "Stingray"
+   },
+   {
+      "from": "Badger",
+      "to": "Pigeon"
+   },
+   {
+      "from": "Kookabura",
+      "to": "Worm"
+   },
+   {
+      "from": "Beaver",
+      "to": "Herring"
+   },
+   {
+      "from": "Bison",
+      "to": "Wolf"
+   },
+   {
+      "from": "Porpoise",
+      "to": "Herring"
+   },
+   {
+      "from": "Dragonfly",
+      "to": "Penguin"
+   },
+   {
+      "from": "Goldfish",
+      "to": "Wren"
+   },
+   {
+      "from": "Zebra",
+      "to": "Quail"
+   },
+   {
+      "from": "Mandrill",
+      "to": "Echidna"
+   },
+   {
+      "from": "Pigeon",
+      "to": "Shark"
+   },
+   {
+      "from": "Armadillo",
+      "to": "Nightingale"
+   },
+   {
+      "from": "Caterpillar",
+      "to": "Rook"
+   },
+   {
+      "from": "Snake",
+      "to": "Wallaby"
+   },
+   {
+      "from": "Snail",
+      "to": "Hummingbird"
+   },
+   {
+      "from": "Wallaby",
+      "to": "Goldfish"
+   },
+   {
+      "from": "Sardine",
+      "to": "Sheep"
+   },
+   {
+      "from": "Kouprey",
+      "to": "Stork"
+   },
+   {
+      "from": "Hawk",
+      "to": "Newt"
+   },
+   {
+      "from": "Peafowl",
+      "to": "Heron"
+   },
+   {
+      "from": "Frog",
+      "to": "Mink"
+   },
+   {
+      "from": "Penguin",
+      "to": "Cassowary"
+   },
+   {
+      "from": "Buffalo",
+      "to": "Otter"
+   },
+   {
+      "from": "Kookabura",
+      "to": "Coyote"
+   },
+   {
+      "from": "Koala",
+      "to": "Panther"
+   },
+   {
+      "from": "Caterpillar",
+      "to": "Peafowl"
+   },
+   {
+      "from": "Fish",
+      "to": "Trout"
+   },
+   {
+      "from": "Salamander",
+      "to": "Starling"
+   },
+   {
+      "from": "Eel",
+      "to": "Scorpion"
+   },
+   {
+      "from": "Heron",
+      "to": "Bear"
+   },
+   {
+      "from": "Grouse",
+      "to": "Seahorse"
+   },
+   {
+      "from": "Tiger",
+      "to": "Eel"
+   },
+   {
+      "from": "Dove",
+      "to": "Turkey"
+   },
+   {
+      "from": "Squid",
+      "to": "Koala"
+   },
+   {
+      "from": "Viper",
+      "to": "Antelope"
+   },
+   {
+      "from": "Beaver",
+      "to": "Wildcat"
+   },
+   {
+      "from": "Bear",
+      "to": "Porpoise"
+   },
+   {
+      "from": "Boar",
+      "to": "Kudu"
+   },
+   {
+      "from": "Fly",
+      "to": "Shark"
+   },
+   {
+      "from": "Goshawk",
+      "to": "Louse"
+   },
+   {
+      "from": "Okapi",
+      "to": "Chamois"
+   },
+   {
+      "from": "Goldfish",
+      "to": "Walrus"
+   },
+   {
+      "from": "Rat",
+      "to": "Wasp"
+   },
+   {
+      "from": "Ape",
+      "to": "Wolverine"
+   },
+   {
+      "from": "Crocodile",
+      "to": "Locust"
+   },
+   {
+      "from": "Jellyfish",
+      "to": "Wallaby"
+   },
+   {
+      "from": "Lobster",
+      "to": "Dunlin"
+   },
+   {
+      "from": "Beaver",
+      "to": "Heron"
+   },
+   {
+      "from": "Falcon",
+      "to": "Okapi"
+   },
+   {
+      "from": "Ibex",
+      "to": "Herring"
+   },
+   {
+      "from": "Partridge",
+      "to": "Mantis"
+   },
+   {
+      "from": "Reindeer",
+      "to": "Cormorant"
+   },
+   {
+      "from": "Anteater",
+      "to": "Quetzal"
+   },
+   {
+      "from": "Hornet",
+      "to": "Albatross"
+   },
+   {
+      "from": "Sand Dollar",
+      "to": "Hare"
+   },
+   {
+      "from": "Kouprey",
+      "to": "Raccoon"
+   },
+   {
+      "from": "Cassowary",
+      "to": "Weasel"
+   },
+   {
+      "from": "Locust",
+      "to": "Dogfish"
+   },
+   {
+      "from": "Marten",
+      "to": "Emu"
+   },
+   {
+      "from": "Pony",
+      "to": "Coyote"
+   },
+   {
+      "from": "Mole",
+      "to": "Skunk"
+   },
+   {
+      "from": "Chough",
+      "to": "Zebra"
+   },
+   {
+      "from": "Gnu",
+      "to": "Fox"
+   },
+   {
+      "from": "Deer",
+      "to": "Termite"
+   },
+   {
+      "from": "Dunlin",
+      "to": "Buffalo"
+   },
+   {
+      "from": "Lyrebird",
+      "to": "Walrus"
+   },
+   {
+      "from": "Fly",
+      "to": "Walrus"
+   },
+   {
+      "from": "Lark",
+      "to": "Seal"
+   },
+   {
+      "from": "Antelope",
+      "to": "Guanaco"
+   },
+   {
+      "from": "Nightingale",
+      "to": "Woodpecker"
+   },
+   {
+      "from": "Ant",
+      "to": "Kudu"
+   },
+   {
+      "from": "Mole",
+      "to": "Sheep"
+   },
+   {
+      "from": "Albatross",
+      "to": "Yak"
+   },
+   {
+      "from": "Kookabura",
+      "to": "Koala"
+   },
+   {
+      "from": "Lion",
+      "to": "Spider"
+   },
+   {
+      "from": "Squirrel",
+      "to": "Baboon"
+   },
+   {
+      "from": "Mole",
+      "to": "Guanaco"
+   },
+   {
+      "from": "Armadillo",
+      "to": "Pheasant"
+   },
+   {
+      "from": "Hedgehog",
+      "to": "Bear"
+   },
+   {
+      "from": "Goat",
+      "to": "Camel"
+   },
+   {
+      "from": "Rook",
+      "to": "Raccoon"
+   },
+   {
+      "from": "Mole",
+      "to": "Kangaroo"
+   },
+   {
+      "from": "Gorilla",
+      "to": "Jackal"
+   },
+   {
+      "from": "Goat",
+      "to": "Newt"
+   },
+   {
+      "from": "Panther",
+      "to": "Cormorant"
+   },
+   {
+      "from": "Crocodile",
+      "to": "Red panda"
+   },
+   {
+      "from": "Falcon",
+      "to": "Fly"
+   },
+   {
+      "from": "Herring",
+      "to": "Chimpanzee"
+   },
+   {
+      "from": "Wasp",
+      "to": "Peafowl"
+   },
+   {
+      "from": "Curlew",
+      "to": "Goose"
+   },
+   {
+      "from": "Gorilla",
+      "to": "Boar"
+   },
+   {
+      "from": "Panther",
+      "to": "Fly"
+   },
+   {
+      "from": "Hamster",
+      "to": "Loris"
+   },
+   {
+      "from": "Okapi",
+      "to": "Dragonfly"
+   },
+   {
+      "from": "Chinchilla",
+      "to": "Caterpillar"
+   },
+   {
+      "from": "Lemur",
+      "to": "Pony"
+   },
+   {
+      "from": "Elephant",
+      "to": "Porpoise"
+   },
+   {
+      "from": "Leopard",
+      "to": "Hornet"
+   },
+   {
+      "from": "Emu",
+      "to": "Ape"
+   },
+   {
+      "from": "Cormorant",
+      "to": "Mallard"
+   },
+   {
+      "from": "Cassowary",
+      "to": "Rhinoceros"
+   },
+   {
+      "from": "Trout",
+      "to": "Finch"
+   },
+   {
+      "from": "Koala",
+      "to": "Squirrel"
+   },
+   {
+      "from": "Donkey",
+      "to": "Sheep"
+   },
+   {
+      "from": "Pigeon",
+      "to": "Red panda"
+   },
+   {
+      "from": "Salmon",
+      "to": "Seahorse"
+   },
+   {
+      "from": "Salmon",
+      "to": "Shrew"
+   },
+   {
+      "from": "Bear",
+      "to": "Flamingo"
+   },
+   {
+      "from": "Anteater",
+      "to": "Giraffe"
+   },
+   {
+      "from": "Gorilla",
+      "to": "Ibis"
+   },
+   {
+      "from": "Curlew",
+      "to": "Crab"
+   },
+   {
+      "from": "Oryx",
+      "to": "Mouse"
+   },
+   {
+      "from": "Emu",
+      "to": "Eel"
+   },
+   {
+      "from": "Shark",
+      "to": "Sheep"
+   },
+   {
+      "from": "Termite",
+      "to": "Pheasant"
+   },
+   {
+      "from": "Viper",
+      "to": "Hedgehog"
+   },
+   {
+      "from": "Salamander",
+      "to": "Shark"
+   },
+   {
+      "from": "Emu",
+      "to": "Cobra"
+   },
+   {
+      "from": "Camel",
+      "to": "Rhinoceros"
+   },
+   {
+      "from": "Quetzal",
+      "to": "Raven"
+   },
+   {
+      "from": "Cassowary",
+      "to": "Snail"
+   },
+   {
+      "from": "Bison",
+      "to": "Porpoise"
+   },
+   {
+      "from": "Wren",
+      "to": "Bee"
+   },
+   {
+      "from": "Wolverine",
+      "to": "Fish"
+   },
+   {
+      "from": "Lobster",
+      "to": "Pig"
+   },
+   {
+      "from": "Leopard",
+      "to": "Shark"
+   },
+   {
+      "from": "Rail",
+      "to": "Elephant"
+   },
+   {
+      "from": "Seal",
+      "to": "Emu"
+   },
+   {
+      "from": "Wolf",
+      "to": "Buffalo"
+   },
+   {
+      "from": "Gnat",
+      "to": "Pelican"
+   },
+   {
+      "from": "Dog",
+      "to": "Bear"
+   },
+   {
+      "from": "Woodcock",
+      "to": "Pig"
+   },
+   {
+      "from": "Shrew",
+      "to": "Dragonfly"
+   },
+   {
+      "from": "Spider",
+      "to": "Capybara"
+   },
+   {
+      "from": "Leopard",
+      "to": "Mandrill"
+   },
+   {
+      "from": "Gnu",
+      "to": "Badger"
+   },
+   {
+      "from": "Lark",
+      "to": "Salmon"
+   },
+   {
+      "from": "Dolphin",
+      "to": "Salamander"
+   },
+   {
+      "from": "Eland",
+      "to": "Gazelle"
+   },
+   {
+      "from": "Guanaco",
+      "to": "Wildcat"
+   },
+   {
+      "from": "Mandrill",
+      "to": "Crocodile"
+   },
+   {
+      "from": "Turkey",
+      "to": "Otter"
+   },
+   {
+      "from": "Deer",
+      "to": "Stinkbug"
+   },
+   {
+      "from": "Jay",
+      "to": "Loris"
+   },
+   {
+      "from": "Ostrich",
+      "to": "Toad"
+   },
+   {
+      "from": "Snake",
+      "to": "Echidna"
+   },
+   {
+      "from": "Porpoise",
+      "to": "Mouse"
+   },
+   {
+      "from": "Salamander",
+      "to": "Wombat"
+   },
+   {
+      "from": "Ape",
+      "to": "Salamander"
+   },
+   {
+      "from": "Spoonbill",
+      "to": "Squid"
+   },
+   {
+      "from": "Jaguar",
+      "to": "Hedgehog"
+   },
+   {
+      "from": "Duck",
+      "to": "Tarsier"
+   },
+   {
+      "from": "Chimpanzee",
+      "to": "Sand Dollar"
+   },
+   {
+      "from": "Echidna",
+      "to": "Llama"
+   },
+   {
+      "from": "Rail",
+      "to": "Caterpillar"
+   },
+   {
+      "from": "Wallaby",
+      "to": "Herring"
+   },
+   {
+      "from": "Jaguar",
+      "to": "Tiger"
+   },
+   {
+      "from": "Stork",
+      "to": "Octopus"
+   },
+   {
+      "from": "Worm",
+      "to": "Ant"
+   },
+   {
+      "from": "Porcupine",
+      "to": "Human"
+   },
+   {
+      "from": "Dogfish",
+      "to": "Spider"
+   },
+   {
+      "from": "Crow",
+      "to": "Frog"
+   },
+   {
+      "from": "Manatee",
+      "to": "Porcupine"
+   },
+   {
+      "from": "Heron",
+      "to": "Quelea"
+   },
+   {
+      "from": "Shrew",
+      "to": "Salamander"
+   },
+   {
+      "from": "Tapir",
+      "to": "Walrus"
+   },
+   {
+      "from": "Weasel",
+      "to": "Pigeon"
+   },
+   {
+      "from": "Viper",
+      "to": "Goose"
+   },
+   {
+      "from": "Boar",
+      "to": "Wolf"
+   },
+   {
+      "from": "Caribou",
+      "to": "Trout"
+   },
+   {
+      "from": "Rat",
+      "to": "Leopard"
+   },
+   {
+      "from": "Goose",
+      "to": "Lyrebird"
+   },
+   {
+      "from": "Snail",
+      "to": "Reindeer"
+   },
+   {
+      "from": "Kingfisher",
+      "to": "Albatross"
+   },
+   {
+      "from": "Magpie",
+      "to": "Sheep"
+   },
+   {
+      "from": "Cheetah",
+      "to": "Hedgehog"
+   },
+   {
+      "from": "Mallard",
+      "to": "Gnu"
+   },
+   {
+      "from": "Oyster",
+      "to": "Pony"
+   },
+   {
+      "from": "Porpoise",
+      "to": "Jackal"
+   },
+   {
+      "from": "Lapwing",
+      "to": "Eel"
+   },
+   {
+      "from": "Mandrill",
+      "to": "Rhinoceros"
+   },
+   {
+      "from": "Wallaby",
+      "to": "Fox"
+   },
+   {
+      "from": "Bear",
+      "to": "Newt"
+   },
+   {
+      "from": "Mole",
+      "to": "Eagle"
+   },
+   {
+      "from": "Toad",
+      "to": "Woodcock"
+   },
+   {
+      "from": "Coyote",
+      "to": "Dog"
+   },
+   {
+      "from": "Stinkbug",
+      "to": "Turkey"
+   },
+   {
+      "from": "Bat",
+      "to": "Wren"
+   },
+   {
+      "from": "Ibex",
+      "to": "Elephant"
+   },
+   {
+      "from": "Anteater",
+      "to": "Narwhal"
+   },
+   {
+      "from": "Salmon",
+      "to": "Ape"
+   },
+   {
+      "from": "Eland",
+      "to": "Eland"
+   },
+   {
+      "from": "Eel",
+      "to": "Swan"
+   },
+   {
+      "from": "Walrus",
+      "to": "Bee"
+   },
+   {
+      "from": "Porcupine",
+      "to": "Turtle"
+   },
+   {
+      "from": "Porpoise",
+      "to": "Mink"
+   },
+   {
+      "from": "Cassowary",
+      "to": "Horse"
+   },
+   {
+      "from": "Jay",
+      "to": "Gerbil"
+   },
+   {
+      "from": "Oryx",
+      "to": "Peafowl"
+   },
+   {
+      "from": "Dove",
+      "to": "Fox"
+   },
+   {
+      "from": "Toad",
+      "to": "Butterfly"
+   },
+   {
+      "from": "Caribou",
+      "to": "Grouse"
+   },
+   {
+      "from": "Moose",
+      "to": "Beaver"
+   },
+   {
+      "from": "Squirrel",
+      "to": "Goose"
+   },
+   {
+      "from": "Weasel",
+      "to": "Anteater"
+   },
+   {
+      "from": "Chicken",
+      "to": "Dugong"
+   },
+   {
+      "from": "Seal",
+      "to": "Chimpanzee"
+   },
+   {
+      "from": "Caterpillar",
+      "to": "Skunk"
+   },
+   {
+      "from": "Mallard",
+      "to": "Pig"
+   },
+   {
+      "from": "Finch",
+      "to": "Pig"
+   },
+   {
+      "from": "Tapir",
+      "to": "Raccoon"
+   },
+   {
+      "from": "Partridge",
+      "to": "Sandpiper"
+   },
+   {
+      "from": "Fox",
+      "to": "Duck"
+   },
+   {
+      "from": "Meerkat",
+      "to": "Mallard"
+   },
+   {
+      "from": "Finch",
+      "to": "Dugong"
+   },
+   {
+      "from": "Worm",
+      "to": "Antelope"
+   },
+   {
+      "from": "Alligator",
+      "to": "Otter"
+   },
+   {
+      "from": "Finch",
+      "to": "Reindeer"
+   },
+   {
+      "from": "Dog",
+      "to": "Stingray"
+   },
+   {
+      "from": "Porcupine",
+      "to": "Gnu"
+   },
+   {
+      "from": "Jay",
+      "to": "Gorilla"
+   },
+   {
+      "from": "Goshawk",
+      "to": "Magpie"
+   },
+   {
+      "from": "Falcon",
+      "to": "Kookabura"
+   },
+   {
+      "from": "Newt",
+      "to": "Rabbit"
+   },
+   {
+      "from": "Lion",
+      "to": "Peafowl"
+   },
+   {
+      "from": "Eel",
+      "to": "Wolf"
+   },
+   {
+      "from": "Grouse",
+      "to": "Nightingale"
+   },
+   {
+      "from": "Llama",
+      "to": "Swallow"
+   },
+   {
+      "from": "Frog",
+      "to": "Mink"
+   },
+   {
+      "from": "Donkey",
+      "to": "Chamois"
+   },
+   {
+      "from": "Mantis",
+      "to": "Camel"
+   },
+   {
+      "from": "Cassowary",
+      "to": "Mink"
+   },
+   {
+      "from": "Mallard",
+      "to": "Cobra"
+   },
+   {
+      "from": "Badger",
+      "to": "Flamingo"
+   },
+   {
+      "from": "Meerkat",
+      "to": "Tiger"
+   },
+   {
+      "from": "Camel",
+      "to": "Cattle"
+   },
+   {
+      "from": "Deer",
+      "to": "Antelope"
+   },
+   {
+      "from": "Lemur",
+      "to": "Heron"
+   },
+   {
+      "from": "Hare",
+      "to": "Jackal"
+   },
+   {
+      "from": "Goat",
+      "to": "Jellyfish"
+   },
+   {
+      "from": "Alligator",
+      "to": "Emu"
+   },
+   {
+      "from": "Termite",
+      "to": "Porpoise"
+   },
+   {
+      "from": "Ape",
+      "to": "Butterfly"
+   },
+   {
+      "from": "Emu",
+      "to": "Mole"
+   },
+   {
+      "from": "Whale",
+      "to": "Jay"
+   },
+   {
+      "from": "Ibex",
+      "to": "Monkey"
+   },
+   {
+      "from": "Kouprey",
+      "to": "Sparrow"
+   },
+   {
+      "from": "Scorpion",
+      "to": "Ostrich"
+   },
+   {
+      "from": "Tapir",
+      "to": "Tapir"
+   },
+   {
+      "from": "Kingfisher",
+      "to": "Bear"
+   },
+   {
+      "from": "Albatross",
+      "to": "Gnu"
+   },
+   {
+      "from": "Viper",
+      "to": "Lyrebird"
+   },
+   {
+      "from": "Cobra",
+      "to": "Butterfly"
+   },
+   {
+      "from": "Salamander",
+      "to": "Panther"
+   },
+   {
+      "from": "Dragonfly",
+      "to": "Eagle"
+   },
+   {
+      "from": "Crow",
+      "to": "Parrot"
+   },
+   {
+      "from": "Buffalo",
+      "to": "Squirrel"
+   },
+   {
+      "from": "Barracuda",
+      "to": "Stinkbug"
+   },
+   {
+      "from": "Cattle",
+      "to": "Ram"
+   },
+   {
+      "from": "Heron",
+      "to": "Hare"
+   },
+   {
+      "from": "Walrus",
+      "to": "Squid"
+   },
+   {
+      "from": "Gaur",
+      "to": "Squid"
+   },
+   {
+      "from": "Otter",
+      "to": "Elk"
+   },
+   {
+      "from": "Dog",
+      "to": "Llama"
+   },
+   {
+      "from": "Fish",
+      "to": "Walrus"
+   },
+   {
+      "from": "Armadillo",
+      "to": "Mink"
+   },
+   {
+      "from": "Mallard",
+      "to": "Kookabura"
+   },
+   {
+      "from": "Bear",
+      "to": "Lark"
+   },
+   {
+      "from": "Albatross",
+      "to": "Swallow"
+   },
+   {
+      "from": "Kouprey",
+      "to": "Elephant"
+   },
+   {
+      "from": "Bison",
+      "to": "Zebra"
+   },
+   {
+      "from": "Mole",
+      "to": "Ferret"
+   },
+   {
+      "from": "Antelope",
+      "to": "Octopus"
+   },
+   {
+      "from": "Antelope",
+      "to": "Loris"
+   },
+   {
+      "from": "Curlew",
+      "to": "Caterpillar"
+   },
+   {
+      "from": "Mole",
+      "to": "Walrus"
+   },
+   {
+      "from": "Rat",
+      "to": "Kangaroo"
+   },
+   {
+      "from": "Scorpion",
+      "to": "Walrus"
+   },
+   {
+      "from": "Jackal",
+      "to": "Ibis"
+   },
+   {
+      "from": "Pony",
+      "to": "Wombat"
+   },
+   {
+      "from": "Dove",
+      "to": "Otter"
+   },
+   {
+      "from": "Barracuda",
+      "to": "Ibex"
+   },
+   {
+      "from": "Zebra",
+      "to": "Goldfinch"
+   },
+   {
+      "from": "Mandrill",
+      "to": "Stingray"
+   },
+   {
+      "from": "Sand Dollar",
+      "to": "Lark"
+   },
+   {
+      "from": "Heron",
+      "to": "Sand Dollar"
+   },
+   {
+      "from": "Opossum",
+      "to": "Raccoon"
+   },
+   {
+      "from": "Cattle",
+      "to": "Rhinoceros"
+   },
+   {
+      "from": "Parrot",
+      "to": "Wolverine"
+   },
+   {
+      "from": "Caterpillar",
+      "to": "Viper"
+   },
+   {
+      "from": "Flamingo",
+      "to": "Hyena"
+   },
+   {
+      "from": "Camel",
+      "to": "Grasshopper"
+   },
+   {
+      "from": "Quetzal",
+      "to": "Llama"
+   },
+   {
+      "from": "Herring",
+      "to": "Fish"
+   },
+   {
+      "from": "Mole",
+      "to": "Antelope"
+   },
+   {
+      "from": "Caribou",
+      "to": "Wren"
+   },
+   {
+      "from": "Rat",
+      "to": "Boar"
+   },
+   {
+      "from": "Kudu",
+      "to": "Capybara"
+   },
+   {
+      "from": "Shrew",
+      "to": "Mandrill"
+   },
+   {
+      "from": "Scorpion",
+      "to": "Spoonbill"
+   },
+   {
+      "from": "Ape",
+      "to": "Hippopotamus"
+   },
+   {
+      "from": "Zebra",
+      "to": "Yak"
+   },
+   {
+      "from": "Snake",
+      "to": "Toad"
+   },
+   {
+      "from": "Herring",
+      "to": "Frog"
+   },
+   {
+      "from": "Mule",
+      "to": "Goldfinch"
+   },
+   {
+      "from": "Kouprey",
+      "to": "Goshawk"
+   },
+   {
+      "from": "Chough",
+      "to": "Heron"
+   },
+   {
+      "from": "Eland",
+      "to": "Pony"
+   },
+   {
+      "from": "Toad",
+      "to": "Gull"
+   },
+   {
+      "from": "Jellyfish",
+      "to": "Baboon"
+   },
+   {
+      "from": "Rat",
+      "to": "Rhinoceros"
+   },
+   {
+      "from": "Zebra",
+      "to": "Caterpillar"
+   },
+   {
+      "from": "Eel",
+      "to": "Eland"
+   },
+   {
+      "from": "Lobster",
+      "to": "Emu"
+   },
+   {
+      "from": "Flamingo",
+      "to": "Hawk"
+   },
+   {
+      "from": "Crocodile",
+      "to": "Snake"
+   },
+   {
+      "from": "Jay",
+      "to": "Wren"
+   },
+   {
+      "from": "Louse",
+      "to": "Anteater"
+   },
+   {
+      "from": "Deer",
+      "to": "Dolphin"
+   },
+   {
+      "from": "Gnu",
+      "to": "Meerkat"
+   },
+   {
+      "from": "Hummingbird",
+      "to": "Newt"
+   },
+   {
+      "from": "Dinosaur",
+      "to": "Red deer"
+   },
+   {
+      "from": "Panther",
+      "to": "Swallow"
+   },
+   {
+      "from": "Cockroach",
+      "to": "Dinosaur"
+   },
+   {
+      "from": "Leopard",
+      "to": "Dugong"
+   },
+   {
+      "from": "Wolf",
+      "to": "Jay"
+   },
+   {
+      "from": "Sand Dollar",
+      "to": "Quelea"
+   },
+   {
+      "from": "Hawk",
+      "to": "Horse"
+   },
+   {
+      "from": "Otter",
+      "to": "Lapwing"
+   },
+   {
+      "from": "Coyote",
+      "to": "Vulture"
+   },
+   {
+      "from": "Goshawk",
+      "to": "Boar"
+   },
+   {
+      "from": "Kingfisher",
+      "to": "Goldfish"
+   },
+   {
+      "from": "Scorpion",
+      "to": "Crow"
+   },
+   {
+      "from": "Dunlin",
+      "to": "Elk"
+   },
+   {
+      "from": "Reindeer",
+      "to": "Salmon"
+   },
+   {
+      "from": "Coyote",
+      "to": "Goat"
+   },
+   {
+      "from": "Leopard",
+      "to": "Rat"
+   },
+   {
+      "from": "Mongoose",
+      "to": "Ibis"
+   },
+   {
+      "from": "Elk",
+      "to": "Locust"
+   },
+   {
+      "from": "Squirrel",
+      "to": "Gazelle"
+   },
+   {
+      "from": "Whale",
+      "to": "Fox"
+   },
+   {
+      "from": "Opossum",
+      "to": "Newt"
+   },
+   {
+      "from": "Penguin",
+      "to": "Bison"
+   },
+   {
+      "from": "Owl",
+      "to": "Grouse"
+   },
+   {
+      "from": "Emu",
+      "to": "Squid"
+   },
+   {
+      "from": "Butterfly",
+      "to": "Newt"
+   },
+   {
+      "from": "Hummingbird",
+      "to": "Bison"
+   },
+   {
+      "from": "Penguin",
+      "to": "Hedgehog"
+   },
+   {
+      "from": "Meerkat",
+      "to": "Goldfinch"
+   },
+   {
+      "from": "Human",
+      "to": "Termite"
+   },
+   {
+      "from": "Spider",
+      "to": "Snail"
+   },
+   {
+      "from": "Crocodile",
+      "to": "Stork"
+   },
+   {
+      "from": "Goldfish",
+      "to": "Wildcat"
+   },
+   {
+      "from": "Grouse",
+      "to": "Mule"
+   },
+   {
+      "from": "Eel",
+      "to": "Swallow"
+   },
+   {
+      "from": "Hawk",
+      "to": "Grouse"
+   },
+   {
+      "from": "Herring",
+      "to": "Tapir"
+   },
+   {
+      "from": "Salamander",
+      "to": "Crow"
+   },
+   {
+      "from": "Fish",
+      "to": "Quelea"
+   },
+   {
+      "from": "Goose",
+      "to": "Gull"
+   },
+   {
+      "from": "Grasshopper",
+      "to": "Hyena"
+   },
+   {
+      "from": "Crocodile",
+      "to": "Meerkat"
+   },
+   {
+      "from": "Dinosaur",
+      "to": "Kudu"
+   },
+   {
+      "from": "Bat",
+      "to": "Rabbit"
+   },
+   {
+      "from": "Salmon",
+      "to": "Swallow"
+   },
+   {
+      "from": "Gnu",
+      "to": "Wallaby"
+   },
+   {
+      "from": "Newt",
+      "to": "Giraffe"
+   },
+   {
+      "from": "Rat",
+      "to": "Cattle"
+   },
+   {
+      "from": "Donkey",
+      "to": "Mule"
+   },
+   {
+      "from": "Ostrich",
+      "to": "Jay"
+   },
+   {
+      "from": "Porpoise",
+      "to": "Moose"
+   },
+   {
+      "from": "Oryx",
+      "to": "Ram"
+   },
+   {
+      "from": "Pig",
+      "to": "Manatee"
+   },
+   {
+      "from": "Octopus",
+      "to": "Sandpiper"
+   },
+   {
+      "from": "Cattle",
+      "to": "Swallow"
+   },
+   {
+      "from": "Lobster",
+      "to": "Red deer"
+   },
+   {
+      "from": "Curlew",
+      "to": "Fox"
+   },
+   {
+      "from": "Pony",
+      "to": "Sand Dollar"
+   },
+   {
+      "from": "Hawk",
+      "to": "Porpoise"
+   },
+   {
+      "from": "Partridge",
+      "to": "Falcon"
+   },
+   {
+      "from": "Kingfisher",
+      "to": "Chinchilla"
+   },
+   {
+      "from": "Manatee",
+      "to": "Snail"
+   },
+   {
+      "from": "Walrus",
+      "to": "Bee"
+   },
+   {
+      "from": "Eagle",
+      "to": "Woodcock"
+   },
+   {
+      "from": "Partridge",
+      "to": "Zebra"
+   },
+   {
+      "from": "Rabbit",
+      "to": "Cod"
+   },
+   {
+      "from": "Zebra",
+      "to": "Donkey"
+   },
+   {
+      "from": "Deer",
+      "to": "Grasshopper"
+   },
+   {
+      "from": "Heron",
+      "to": "Duck"
+   },
+   {
+      "from": "Quelea",
+      "to": "Mantis"
+   },
+   {
+      "from": "Peafowl",
+      "to": "Human"
+   },
+   {
+      "from": "Bat",
+      "to": "Mallard"
+   },
+   {
+      "from": "Quetzal",
+      "to": "Echidna"
+   },
+   {
+      "from": "Stork",
+      "to": "Camel"
+   },
+   {
+      "from": "Grasshopper",
+      "to": "Mosquito"
+   },
+   {
+      "from": "Lion",
+      "to": "Dog"
+   },
+   {
+      "from": "Monkey",
+      "to": "Partridge"
+   },
+   {
+      "from": "Peafowl",
+      "to": "Barracuda"
+   },
+   {
+      "from": "Whale",
+      "to": "Oyster"
+   },
+   {
+      "from": "Cormorant",
+      "to": "Walrus"
+   },
+   {
+      "from": "Rabbit",
+      "to": "Pelican"
+   },
+   {
+      "from": "Goshawk",
+      "to": "Salmon"
+   },
+   {
+      "from": "Cattle",
+      "to": "Trout"
+   },
+   {
+      "from": "Curlew",
+      "to": "Barracuda"
+   },
+   {
+      "from": "Heron",
+      "to": "Porpoise"
+   },
+   {
+      "from": "Hamster",
+      "to": "Aardvark"
+   },
+   {
+      "from": "Fish",
+      "to": "Porcupine"
+   },
+   {
+      "from": "Dolphin",
+      "to": "Wallaby"
+   },
+   {
+      "from": "Kookabura",
+      "to": "Skunk"
+   },
+   {
+      "from": "Oryx",
+      "to": "Rat"
+   },
+   {
+      "from": "Spider",
+      "to": "Caribou"
+   },
+   {
+      "from": "Chinchilla",
+      "to": "Hyena"
+   },
+   {
+      "from": "Pony",
+      "to": "Coyote"
+   },
+   {
+      "from": "Lapwing",
+      "to": "Eel"
+   },
+   {
+      "from": "Butterfly",
+      "to": "Beaver"
+   },
+   {
+      "from": "Newt",
+      "to": "Antelope"
+   },
+   {
+      "from": "Stork",
+      "to": "Opossum"
+   },
+   {
+      "from": "Gerbil",
+      "to": "Frog"
+   },
+   {
+      "from": "Yak",
+      "to": "Human"
+   },
+   {
+      "from": "Armadillo",
+      "to": "Turkey"
+   },
+   {
+      "from": "Kookabura",
+      "to": "Quetzal"
+   },
+   {
+      "from": "Shark",
+      "to": "Kookabura"
+   },
+   {
+      "from": "Viper",
+      "to": "Tapir"
+   },
+   {
+      "from": "Butterfly",
+      "to": "Wolverine"
+   },
+   {
+      "from": "Wallaby",
+      "to": "Swallow"
+   },
+   {
+      "from": "Chough",
+      "to": "Finch"
+   },
+   {
+      "from": "Heron",
+      "to": "Bear"
+   },
+   {
+      "from": "Ferret",
+      "to": "Lark"
+   },
+   {
+      "from": "Dove",
+      "to": "Quelea"
+   },
+   {
+      "from": "Chimpanzee",
+      "to": "Goldfinch"
+   },
+   {
+      "from": "Dolphin",
+      "to": "Armadillo"
+   },
+   {
+      "from": "Dogfish",
+      "to": "Ostrich"
+   },
+   {
+      "from": "Fox",
+      "to": "Cassowary"
+   },
+   {
+      "from": "Alligator",
+      "to": "Wolverine"
+   },
+   {
+      "from": "Hippopotamus",
+      "to": "Pelican"
+   },
+   {
+      "from": "Eland",
+      "to": "Aardvark"
+   },
+   {
+      "from": "Goat",
+      "to": "Giraffe"
+   },
+   {
+      "from": "Heron",
+      "to": "Herring"
+   },
+   {
+      "from": "Mosquito",
+      "to": "Fox"
+   },
+   {
+      "from": "Hamster",
+      "to": "Rabbit"
+   },
+   {
+      "from": "Dolphin",
+      "to": "Shark"
+   },
+   {
+      "from": "Marten",
+      "to": "Woodpecker"
+   },
+   {
+      "from": "Kudu",
+      "to": "Mallard"
+   },
+   {
+      "from": "Baboon",
+      "to": "Wallaby"
+   },
+   {
+      "from": "Walrus",
+      "to": "Finch"
+   },
+   {
+      "from": "Pony",
+      "to": "Ferret"
+   },
+   {
+      "from": "Shrew",
+      "to": "Swallow"
+   },
+   {
+      "from": "Newt",
+      "to": "Zebra"
+   },
+   {
+      "from": "Skunk",
+      "to": "Wasp"
+   },
+   {
+      "from": "Anteater",
+      "to": "Aardvark"
+   },
+   {
+      "from": "Okapi",
+      "to": "Ibis"
+   },
+   {
+      "from": "Porcupine",
+      "to": "Cormorant"
+   },
+   {
+      "from": "Swan",
+      "to": "Squirrel"
+   },
+   {
+      "from": "Gorilla",
+      "to": "Worm"
+   },
+   {
+      "from": "Squid",
+      "to": "Newt"
+   },
+   {
+      "from": "Walrus",
+      "to": "Swan"
+   },
+   {
+      "from": "Mandrill",
+      "to": "Ferret"
+   },
+   {
+      "from": "Bee",
+      "to": "Loris"
+   },
+   {
+      "from": "Hippopotamus",
+      "to": "Scorpion"
+   },
+   {
+      "from": "Nightingale",
+      "to": "Butterfly"
+   },
+   {
+      "from": "Squid",
+      "to": "Red deer"
+   },
+   {
+      "from": "Worm",
+      "to": "Rat"
+   },
+   {
+      "from": "Eland",
+      "to": "Tarsier"
+   },
+   {
+      "from": "Jellyfish",
+      "to": "Ibis"
+   },
+   {
+      "from": "Crocodile",
+      "to": "Jackal"
+   },
+   {
+      "from": "Grouse",
+      "to": "Tapir"
+   },
+   {
+      "from": "Gnu",
+      "to": "Chicken"
+   },
+   {
+      "from": "Okapi",
+      "to": "Wolf"
+   },
+   {
+      "from": "Peafowl",
+      "to": "Antelope"
+   },
+   {
+      "from": "Okapi",
+      "to": "Magpie"
+   },
+   {
+      "from": "Weasel",
+      "to": "Lark"
+   },
+   {
+      "from": "Panther",
+      "to": "Goose"
+   },
+   {
+      "from": "Falcon",
+      "to": "Locust"
+   },
+   {
+      "from": "Salamander",
+      "to": "Termite"
+   },
+   {
+      "from": "Parrot",
+      "to": "Badger"
+   },
+   {
+      "from": "Yak",
+      "to": "Jaguar"
+   },
+   {
+      "from": "Mallard",
+      "to": "Hyena"
+   },
+   {
+      "from": "Dinosaur",
+      "to": "Goldfinch"
+   },
+   {
+      "from": "Hornet",
+      "to": "Kingfisher"
+   },
+   {
+      "from": "Hare",
+      "to": "Cormorant"
+   },
+   {
+      "from": "Parrot",
+      "to": "Okapi"
+   },
+   {
+      "from": "Jay",
+      "to": "Gull"
+   },
+   {
+      "from": "Yak",
+      "to": "Caribou"
+   },
+   {
+      "from": "Fish",
+      "to": "Goose"
+   },
+   {
+      "from": "Lobster",
+      "to": "Raven"
+   },
+   {
+      "from": "Turtle",
+      "to": "Wren"
+   },
+   {
+      "from": "Scorpion",
+      "to": "Raccoon"
+   },
+   {
+      "from": "Vulture",
+      "to": "Skunk"
+   },
+   {
+      "from": "Magpie",
+      "to": "Cheetah"
+   },
+   {
+      "from": "Camel",
+      "to": "Raven"
+   },
+   {
+      "from": "Jellyfish",
+      "to": "Goshawk"
+   },
+   {
+      "from": "Meerkat",
+      "to": "Wolf"
+   },
+   {
+      "from": "Goat",
+      "to": "Mantis"
+   },
+   {
+      "from": "Rail",
+      "to": "Narwhal"
+   },
+   {
+      "from": "Dolphin",
+      "to": "Gazelle"
+   },
+   {
+      "from": "Okapi",
+      "to": "Bat"
+   },
+   {
+      "from": "Lion",
+      "to": "Mink"
+   },
+   {
+      "from": "Gnat",
+      "to": "Alligator"
+   },
+   {
+      "from": "Stingray",
+      "to": "Red panda"
+   },
+   {
+      "from": "Finch",
+      "to": "Whale"
+   },
+   {
+      "from": "Tiger",
+      "to": "Cobra"
+   },
+   {
+      "from": "Mandrill",
+      "to": "Chicken"
+   },
+   {
+      "from": "Goose",
+      "to": "Wallaby"
+   },
+   {
+      "from": "Kookabura",
+      "to": "Wildcat"
+   },
+   {
+      "from": "Lark",
+      "to": "Pig"
+   },
+   {
+      "from": "Gnat",
+      "to": "Jellyfish"
+   },
+   {
+      "from": "Tapir",
+      "to": "Lark"
+   },
+   {
+      "from": "Hornet",
+      "to": "Mongoose"
+   },
+   {
+      "from": "Whale",
+      "to": "Pelican"
+   },
+   {
+      "from": "Rabbit",
+      "to": "Locust"
+   },
+   {
+      "from": "Partridge",
+      "to": "Cockroach"
+   },
+   {
+      "from": "Salamander",
+      "to": "Sparrow"
+   },
+   {
+      "from": "Porcupine",
+      "to": "Skunk"
+   },
+   {
+      "from": "Gerbil",
+      "to": "Turkey"
+   },
+   {
+      "from": "Deer",
+      "to": "Cormorant"
+   },
+   {
+      "from": "Dragonfly",
+      "to": "Wren"
+   },
+   {
+      "from": "Lobster",
+      "to": "Newt"
+   },
+   {
+      "from": "Wasp",
+      "to": "Jellyfish"
+   },
+   {
+      "from": "Kingfisher",
+      "to": "Gazelle"
+   },
+   {
+      "from": "Tarsier",
+      "to": "Elk"
+   },
+   {
+      "from": "Hawk",
+      "to": "Bat"
+   },
+   {
+      "from": "Squid",
+      "to": "Gazelle"
+   },
+   {
+      "from": "Cattle",
+      "to": "Dolphin"
+   },
+   {
+      "from": "Rat",
+      "to": "Pigeon"
+   },
+   {
+      "from": "Porcupine",
+      "to": "Partridge"
+   },
+   {
+      "from": "Sandpiper",
+      "to": "Fly"
+   },
+   {
+      "from": "Kookabura",
+      "to": "Seal"
+   },
+   {
+      "from": "Crocodile",
+      "to": "Cormorant"
+   },
+   {
+      "from": "Guanaco",
+      "to": "Goldfinch"
+   },
+   {
+      "from": "Shrew",
+      "to": "Heron"
+   },
+   {
+      "from": "Salamander",
+      "to": "Buffalo"
+   },
+   {
+      "from": "Squirrel",
+      "to": "Kookabura"
+   },
+   {
+      "from": "Cobra",
+      "to": "Caribou"
+   },
+   {
+      "from": "Swan",
+      "to": "Octopus"
+   },
+   {
+      "from": "Pig",
+      "to": "Sheep"
+   },
+   {
+      "from": "Peafowl",
+      "to": "Spider"
+   },
+   {
+      "from": "Magpie",
+      "to": "Hare"
+   },
+   {
+      "from": "Zebra",
+      "to": "Hare"
+   },
+   {
+      "from": "Beaver",
+      "to": "Jackal"
+   },
+   {
+      "from": "Stork",
+      "to": "Swan"
+   },
+   {
+      "from": "Reindeer",
+      "to": "Oryx"
+   },
+   {
+      "from": "Hawk",
+      "to": "Stinkbug"
+   },
+   {
+      "from": "Turtle",
+      "to": "Dragonfly"
+   },
+   {
+      "from": "Sardine",
+      "to": "Jackal"
+   },
+   {
+      "from": "Stinkbug",
+      "to": "Goat"
+   },
+   {
+      "from": "Weasel",
+      "to": "Mandrill"
+   },
+   {
+      "from": "Chinchilla",
+      "to": "Albatross"
+   },
+   {
+      "from": "Grouse",
+      "to": "Moose"
+   },
+   {
+      "from": "Mongoose",
+      "to": "Quetzal"
+   },
+   {
+      "from": "Wallaby",
+      "to": "Ape"
+   },
+   {
+      "from": "Viper",
+      "to": "Ape"
+   },
+   {
+      "from": "Porpoise",
+      "to": "Leopard"
+   },
+   {
+      "from": "Fish",
+      "to": "Human"
+   },
+   {
+      "from": "Fly",
+      "to": "Bear"
+   },
+   {
+      "from": "Baboon",
+      "to": "Gorilla"
+   },
+   {
+      "from": "Chinchilla",
+      "to": "Weasel"
+   },
+   {
+      "from": "Stingray",
+      "to": "Pony"
+   },
+   {
+      "from": "Goat",
+      "to": "Lobster"
+   },
+   {
+      "from": "Camel",
+      "to": "Gerbil"
+   },
+   {
+      "from": "Mongoose",
+      "to": "Worm"
+   },
+   {
+      "from": "Snake",
+      "to": "Wildcat"
+   },
+   {
+      "from": "Eland",
+      "to": "Flamingo"
+   },
+   {
+      "from": "Elephant",
+      "to": "Mallard"
+   },
+   {
+      "from": "Gnat",
+      "to": "Walrus"
+   },
+   {
+      "from": "Moose",
+      "to": "Lemur"
+   },
+   {
+      "from": "Ostrich",
+      "to": "Giraffe"
+   },
+   {
+      "from": "Cobra",
+      "to": "Pig"
+   },
+   {
+      "from": "Worm",
+      "to": "Cockroach"
+   },
+   {
+      "from": "Ibis",
+      "to": "Chinchilla"
+   },
+   {
+      "from": "Cassowary",
+      "to": "Marten"
+   },
+   {
+      "from": "Dogfish",
+      "to": "Crow"
+   },
+   {
+      "from": "Crow",
+      "to": "Narwhal"
+   },
+   {
+      "from": "Squid",
+      "to": "Zebra"
+   },
+   {
+      "from": "Herring",
+      "to": "Scorpion"
+   },
+   {
+      "from": "Frog",
+      "to": "Duck"
+   },
+   {
+      "from": "Lark",
+      "to": "Dunlin"
+   },
+   {
+      "from": "Scorpion",
+      "to": "Bee"
+   },
+   {
+      "from": "Quelea",
+      "to": "Dinosaur"
+   },
+   {
+      "from": "Armadillo",
+      "to": "Mantis"
+   },
+   {
+      "from": "Cheetah",
+      "to": "Hamster"
+   },
+   {
+      "from": "Louse",
+      "to": "Fly"
+   },
+   {
+      "from": "Horse",
+      "to": "Giraffe"
+   },
+   {
+      "from": "Yak",
+      "to": "Wildcat"
+   },
+   {
+      "from": "Yak",
+      "to": "Dotterel"
+   },
+   {
+      "from": "Dove",
+      "to": "Locust"
+   },
+   {
+      "from": "Meerkat",
+      "to": "Hornet"
+   },
+   {
+      "from": "Badger",
+      "to": "Antelope"
+   },
+   {
+      "from": "Alligator",
+      "to": "Raven"
+   },
+   {
+      "from": "Grasshopper",
+      "to": "Nightingale"
+   },
+   {
+      "from": "Newt",
+      "to": "Worm"
+   },
+   {
+      "from": "Hornet",
+      "to": "Mink"
+   },
+   {
+      "from": "Kingfisher",
+      "to": "Horse"
+   },
+   {
+      "from": "Trout",
+      "to": "Pelican"
+   },
+   {
+      "from": "Chimpanzee",
+      "to": "Nightingale"
+   },
+   {
+      "from": "Chicken",
+      "to": "Gull"
+   },
+   {
+      "from": "Jackal",
+      "to": "Cattle"
+   },
+   {
+      "from": "Coyote",
+      "to": "Pony"
+   },
+   {
+      "from": "Ostrich",
+      "to": "Snail"
+   },
+   {
+      "from": "Caterpillar",
+      "to": "Finch"
+   },
+   {
+      "from": "Porpoise",
+      "to": "Squid"
+   },
+   {
+      "from": "Scorpion",
+      "to": "Bison"
+   },
+   {
+      "from": "Chimpanzee",
+      "to": "Jellyfish"
+   },
+   {
+      "from": "Kingfisher",
+      "to": "Hamster"
+   },
+   {
+      "from": "Pony",
+      "to": "Cockroach"
+   },
+   {
+      "from": "Lemur",
+      "to": "Quetzal"
+   },
+   {
+      "from": "Herring",
+      "to": "Albatross"
+   },
+   {
+      "from": "Grasshopper",
+      "to": "Goat"
+   },
+   {
+      "from": "Spoonbill",
+      "to": "Goldfinch"
+   },
+   {
+      "from": "Mantis",
+      "to": "Opossum"
+   },
+   {
+      "from": "Partridge",
+      "to": "Wolf"
+   },
+   {
+      "from": "Porcupine",
+      "to": "Woodpecker"
+   },
+   {
+      "from": "Aardvark",
+      "to": "Gnat"
+   },
+   {
+      "from": "Hyena",
+      "to": "Seahorse"
+   },
+   {
+      "from": "Mongoose",
+      "to": "Caribou"
+   },
+   {
+      "from": "Aardvark",
+      "to": "Snake"
+   }
+]
