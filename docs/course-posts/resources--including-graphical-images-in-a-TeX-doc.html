@@ -4,7 +4,8 @@
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Math87-Tufts University - Week 09 material</title>
+        <title>Math87-Tufts University - Resources: Including graphical images in a LaTeX document
+</title>
 	<script>
 	  window.MathJax = {
 	    options: {
@@ -47,7 +48,8 @@
         </header>
 
         <main role="main">
-            <h1>Week 09 material</h1>
+            <h1>Resources: Including graphical images in a LaTeX document
+</h1>
             <article>
     <section class="header">
         Posted on 2025-03-10
@@ -56,21 +58,28 @@
         
     </section>
     <section>
-        <ul>
-<li><p>Notebooks</p>
+        <p>I’m including this discussion because it may help you in writing your
+final project report. I suspect many of you already know this, but
+since the document exists, it seems worthwhile to post it.</p>
+<p>If you produce your report using <code>LaTeX</code> (recommended!) the following example shows how
+to include graphical images:</p>
 <ul>
-<li>[2025-02-26] statistics
-<a href="../course-content/week09-01--statistics.ipynb">notebook</a>
-<a href="https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week09-01--statistics.ipynb">colab</a></li>
-</ul></li>
-<li><p>Assignment</p>
-<ul>
-<li><p><a href="../course-assignments/MidRep2--2024-03.pdf"><strong>[MidTerm Report 2]</strong></a> due Sunday 2025-03-23
-<a href="../course-assets/code/MidRep2-data-2025.json">Data for report 2</a></p></li>
-<li><p><a href="../course-assignments/Final-Project.pdf"><strong>[Final Project Proposal]</strong></a> due Friday 2025-04-12</p></li>
-<li><p><a href="../course-assignments/Final-Project.pdf"><strong>[Final Project]</strong></a> due Friday 2025-05-02</p></li>
-</ul></li>
+<li><a href="../course-assets/latex-examples/graphic-example.tex">latex example with graphics</a><br />
+<a href="../course-assets/latex-examples/graph-example.png">graphic</a><br />
+<a href="../course-assets/latex-examples/graphic-example.pdf">pdf</a></li>
 </ul>
+<p>The main point here is that you need to use the <code>graphicx</code> package</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode latex"><code class="sourceCode latex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="bu">\usepackage</span>{<span class="ex">graphicx, color</span>}</span></code></pre></div>
+<p>and that the command</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode latex"><code class="sourceCode latex"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>  <span class="bu">\includegraphics</span>[scale=.5]{<span class="ex">graph-example</span>}</span></code></pre></div>
+<p>displays the graphic found in the file named <code>graph-example.png</code> (or <code>graph-example.jpg</code> or…)</p>
+<p>The <code>[pdf]</code> link above shows the output. To use this yourself, you’ll need
+to save the <code>latex</code> file as well as the <code>png</code> graphic file. You can
+read a bit more
+<a href="https://www.overleaf.com/learn/latex/Inserting_Images">here</a> about
+how to use this in overleaf. You’ll need to <em>upload</em> the relevant file
+- in the above example, <code>graph-example.png</code> - to Overleaf in order to
+use it there.</p>
     </section>
 </article>
 

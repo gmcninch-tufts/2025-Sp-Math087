@@ -1,4 +1,4 @@
--- Time-stamp: <2025-02-09 Sun 11:43 EST - george@valhalla>
+-- Time-stamp: <2025-03-09 Sun 14:45 EDT - george@valhalla>
 let Dow = < Mon | Tue | Wed | Thu | Fri | Sat | Sun >
 
 let concat = https://prelude.dhall-lang.org/List/concat
@@ -87,7 +87,7 @@ let FinalProject =
         { description = "Final Project Due"
         , sched =
           [ ScheduleDetails.DateDue { date = "2025-04-04", deadline = "23:59" }
-          , ScheduleDetails.DateDue { date = "2025-05-03", deadline = "23:59" }
+          , ScheduleDetails.DateDue { date = "2025-05-02", deadline = "23:59" }
           ]
         , assignments = [ "Final project proposals due", "Final Project Due" ]
         }
