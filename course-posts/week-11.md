@@ -20,6 +20,11 @@ date: 2025-03-24
     [notebook](/course-content/week11-03--python-and-pandas-tools.ipynb)
 	[colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week11-03--python-and-pandas-tools.ipynb)
 
+  - [2025-03-24] binomial & Poisson distribution
+    [notebook](/course-content/week11-04--binomial-and-poisson.ipynb)
+	[colab](https://colab.research.google.com/github/gmcninch-tufts/2025-Sp-Math087/blob/main/course-content/week11-04--binomial-and-poisson.ipynb)
+
+
 - assignment
 
   - [**[problem set 7]**](/course-assignments/PS07--2024-03-29.pdf)
