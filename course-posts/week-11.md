@@ -27,4 +27,4 @@ date: 2025-03-24
 
 - assignment
 
-  - [**[problem set 7]**](/course-assignments/PS07--2024-03-29.pdf)
+  - [**[problem set 7]**](/course-assignments/PS07--2025-03-30.pdf)
