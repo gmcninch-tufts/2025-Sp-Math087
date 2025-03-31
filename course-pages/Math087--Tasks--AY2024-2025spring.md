@@ -33,11 +33,11 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   | 03/23 | Sun | Assignment |     | 10   | midterm report 2 (page-rank)                                   |
   | 03/23 | Sun | Tufts      |     | 10   | **No classes:** *Spring Break*                                 |
   | 03/30 | Sun | Assignment |     | 11   | PS07: Monte-Carlo methods                                      |
-  | 04/02 | Wed | Exam       |     | 12   | **in-class quizzes (~20-30 minute)**                           |
   | 04/02 | Wed | Tufts      |     | 12   | **Academic Date:** *Last day to withdraw from a course with W* |
   | 04/02 | Wed | Tufts      |     | 12   | **Academic Date:** *Last day to select Pass/Fail Option*       |
-  | 04/04 | Fri | Assignment |     | 12   | Final project proposals due                                    |
   | 04/06 | Sun | Assignment |     | 12   | PS08: binomial & poisson distributions                         |
+  | 04/09 | Wed | Exam       |     | 13   | **in-class quizzes (~20-30 minute)**                           |
+  | 04/12 | Sat | Assignment |     | 13   | Final project proposals due                                    |
   | 04/13 | Sun | Assignment |     | 13   | PS09: least squares & inverse problems                         |
   | 04/20 | Sun | Assignment |     | 14   |                                                                |
   | 04/21 | Mon | Tufts      |     | 15   | **No classes:** *Patriots' Day*                                |
@@ -46,8 +46,8 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   | 04/29 | Tue | Tufts      |     | 16   | **Academic Date:** *Reading Period*                            |
   | 04/30 | Wed | Tufts      |     | 16   | **Academic Date:** *Reading Period*                            |
   | 05/01 | Thu | Tufts      |     | 16   | **Academic Date:** *Reading Period*                            |
+  | 05/02 | Fri | Assignment |     | 16   | Final Project Due                                              |
   | 05/02 | Fri | Tufts      |     | 16   | **Academic Date:** *Final Exam Period*                         |
-  | 05/03 | Sat | Assignment |     | 16   | Final Project Due                                              |
   | 05/03 | Sat | Tufts      |     | 16   | **Academic Date:** *Final Exam Period*                         |
   | 05/04 | Sun | Tufts      |     | 16   | **Academic Date:** *Final Exam Period*                         |
   | 05/05 | Mon | Tufts      |     | 17   | **Academic Date:** *Final Exam Period*                         |

@@ -1,4 +1,4 @@
--- Time-stamp: <2025-03-09 Sun 14:45 EDT - george@valhalla>
+-- Time-stamp: <2025-03-31 Mon 09:21 EDT - george@podkayne>
 let Dow = < Mon | Tue | Wed | Thu | Fri | Sat | Sun >
 
 let concat = https://prelude.dhall-lang.org/List/concat
@@ -86,7 +86,7 @@ let FinalProject =
       CourseComponent.Assignment
         { description = "Final Project Due"
         , sched =
-          [ ScheduleDetails.DateDue { date = "2025-04-04", deadline = "23:59" }
+          [ ScheduleDetails.DateDue { date = "2025-04-12", deadline = "23:59" }
           , ScheduleDetails.DateDue { date = "2025-05-02", deadline = "23:59" }
           ]
         , assignments = [ "Final project proposals due", "Final Project Due" ]
@@ -101,7 +101,7 @@ let Quizzes =
               , location = "JCC 280"
               }
           , ScheduleDetails.Date
-              { date = "2025-04-02"
+              { date = "2025-04-09"
               , time = { start = "10:30", end = "11:45" }
               , location = "JCC 280"
               }
