@@ -83,8 +83,8 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   | 04/09 | Wed | Lecture    | 22              | 13   | Linear least squares                                            |
   | 04/09 | Wed | Exam       |                 | 13   | **in-class quizzes (~20-30 minute)**                            |
   | 04/10 | Thu | Meeting    | Office hours 11 | 13   | **14:30-15:30 JCC 559                                           |
-  | 04/12 | Sat | Assignment |                 | 13   | Final project proposals due                                     |
   | 04/13 | Sun | Assignment |                 | 13   | PS09: least squares & inverse problems                          |
+  | 04/13 | Sun | Assignment |                 | 13   | Final project proposals due                                     |
   | 04/14 | Mon | Lecture    | 23              | 14   |                                                                 |
   | 04/16 | Wed | Meeting    | Office hours 12 | 14   | **13:30-14:30 JCC 559                                           |
   | 04/16 | Wed | Lecture    | 24              | 14   |                                                                 |

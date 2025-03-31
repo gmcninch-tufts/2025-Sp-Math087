@@ -37,8 +37,8 @@ title: Math087 - Mathematical Modelling - AY2024-2025 spring
   | 04/02 | Wed | Tufts      |     | 12   | **Academic Date:** *Last day to select Pass/Fail Option*       |
   | 04/06 | Sun | Assignment |     | 12   | PS08: binomial & poisson distributions                         |
   | 04/09 | Wed | Exam       |     | 13   | **in-class quizzes (~20-30 minute)**                           |
-  | 04/12 | Sat | Assignment |     | 13   | Final project proposals due                                    |
   | 04/13 | Sun | Assignment |     | 13   | PS09: least squares & inverse problems                         |
+  | 04/13 | Sun | Assignment |     | 13   | Final project proposals due                                    |
   | 04/20 | Sun | Assignment |     | 14   |                                                                |
   | 04/21 | Mon | Tufts      |     | 15   | **No classes:** *Patriots' Day*                                |
   | 04/27 | Sun | Assignment |     | 15   |                                                                |
