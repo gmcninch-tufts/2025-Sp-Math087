@@ -18,6 +18,10 @@ date: 2025-03-31
 
   - [**[problem set 8]**](/course-assignments/PS08--2025-04-06.pdf) 
 
-  - [**[Final Project Proposal]**](/course-assignments/Final-Project.pdf) due Friday 2025-04-12
+  - [**[Final Project Proposal]**](/course-assignments/Final-Project.pdf) due Sunday 2025-04-13
 	
   - [**[Final Project]**](/course-assignments/Final-Project.pdf) due Friday 2025-05-02	
+
+- reminder
+
+  - quiz 2 will be 2025=04-09. I'll have review material available by 2025-04-03.
