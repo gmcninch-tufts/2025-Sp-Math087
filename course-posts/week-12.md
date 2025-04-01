@@ -24,6 +24,6 @@ date: 2025-03-31
 
 - reminder
 
-  - quiz 2 will be [2025-04-09]. I'll have review material available by 2025-04-03.
+  - quiz 2 will be [2025-04-09]
 
   - [quiz 2 review material](/course-content/Quiz2-review--2025-04-09.pdf)
