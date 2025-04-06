@@ -26,4 +26,5 @@ date: 2025-03-31
 
   - quiz 2 will be [2025-04-09]
 
-  - [quiz 2 review material](/course-content/Quiz2-review--2025-04-09.pdf)
+  - [quiz 2 review material](/course-content/Quiz2-review--2025-04-09.pdf)  
+    [quiz 2 review material solutions](/course-content/Quiz2-review--solutions.pdf)
