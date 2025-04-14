@@ -135,10 +135,10 @@ postCtx =
 
 config :: Configuration
 config = defaultConfiguration
-  { destinationDirectory = "/home/george/Prof-VC/classes-and-advising/2025-Sp-Math087/docs"
-  , providerDirectory    = "/home/george/Prof-VC/classes-and-advising/2025-Sp-Math087"
-  , storeDirectory       = "/home/george/Prof-VC/classes-and-advising/2025-Sp-Math087/_cache"
-  , tmpDirectory         = "/home/george/Prof-VC/classes-and-advising/2025-Sp-Math087/_cache/tmp"  
+  { destinationDirectory = "/home/george/Prof-VC/classes/2025-Sp-Math087/docs"
+  , providerDirectory    = "/home/george/Prof-VC/classes/2025-Sp-Math087"
+  , storeDirectory       = "/home/george/Prof-VC/classes/2025-Sp-Math087/_cache"
+  , tmpDirectory         = "/home/george/Prof-VC/classes/2025-Sp-Math087/_cache/tmp"  
   , previewPort          = 9090
-  , deployCommand        = "bash /home/george/Prof-VC/classes-and-advising/2025-Sp-Math087/deploy.sh"
+  , deployCommand        = "bash /home/george/Prof-VC/classes/2025-Sp-Math087/deploy.sh"
   }
