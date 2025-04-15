@@ -16,7 +16,7 @@ date: 2025-04-14
 
 - assignment
 
-  - There will be one more homework assignment; assignment 10 will be posted soon and will be due Sunday 2025-04-27
+  - ~~There will be one more homework assignment; assignment 10 will be posted soon and will be due Sunday 2025-04-27~~
 
   - [**[Final Project Proposal]**](/course-assignments/Final-Project.pdf) due Sunday 2025-04-13
 	
