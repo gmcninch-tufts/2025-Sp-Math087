@@ -53,19 +53,18 @@ Here are details on these course components:
 - 2 *midterm reports* and 1 *final report*
 
   Note that you will submit a *proposal* for the final report prior to
-  work.  Moreover, there will be a *video component* to your final
+  work.  ~~Moreover, there will be a *video component* to your final
   project. After the final projects are collected, you must watch (at
   least) two videos created by classmates and write a brief summary of
   them. These summaries will be due during the final exam period (on
-  the schedule day of the final exam for the class).
+  the schedule day of the final exam for the class).~~
 
   Here are the dates:
   
   - midterm report 1 --2025-02-14 
   - midterm report 2 -- 2025-03-14 
-  - final report proposal due -- 2025-04-04 
-  - final report due -- 2025-04-25
-  - final report - peer comments -- 2025-05-02 
+  - final report proposal due -- 2025-04-12
+  - final report due -- 2025-05-02
 
 Please refer to the course website where you will find more detailed
 description of expectations concerning these course
