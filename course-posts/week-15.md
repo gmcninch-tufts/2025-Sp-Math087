@@ -1,7 +1,7 @@
 ---
 author: George McNinch
-title: Week 14 material
-date: 2025-04-14
+title: Week 15 material
+date: 2025-04-21
 ---
 - Notebooks
 
