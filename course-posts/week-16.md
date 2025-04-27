@@ -4,7 +4,7 @@ title: Week 16 material
 date: 2025-04-28
 ---
 
-- [notes for final lecture](/course-content/proofs.pdf)
+- [notes for final lecture](/course-content/proofs-handout.pdf)
 
 - assignment
 	
