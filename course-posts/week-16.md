@@ -4,11 +4,9 @@ title: Week 16 material
 date: 2025-04-28
 ---
 
-- [notes for final lecture](/course-content/proofs?.pdf)
+- [notes for final lecture](/course-content/proofs.pdf)
 
 - assignment
-
-  - [**[Final Project Proposal]**](/course-assignments/Final-Project.pdf) due Sunday 2025-04-13
 	
   - [**[Final Project]**](/course-assignments/Final-Project.pdf) due Friday 2025-05-02	
 
